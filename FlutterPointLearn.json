@@ -1,0 +1,16 @@
+{
+  "LearnFlutter": [
+    {
+      "id": 1,
+      "text1": "Spaghetti Bolognese",
+      "image1": "images/smosa.png",
+      "image2": "images/smosa.png"
+    },
+    {
+      "id": 2,
+      "text1": "Chicken Curry",
+      "text2": "A flavorful Indian curry made with tender chicken and 	aromatic spices.",
+      "image": "images/smosa.png"
+    }
+  ]
+}
