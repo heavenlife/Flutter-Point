@@ -19,6 +19,16 @@
       "id": 4,
       "title": "Apps built with Flutter",
       "web_site": "https://sites.google.com/view/apps-buildwith-flutter4/home"
+    },
+    {
+      "id": 5,
+      "title": "Installation of Flutter",
+      "web_site": "https://sites.google.com/view/flutter-installation5/home"
+    },
+     {
+      "id": 6,
+      "title": "Creating Simple Application in Android Studio",
+      "web_site": "https://sites.google.com/view/apps-buildwith-flutter4/home"
     }
   ]
 }
