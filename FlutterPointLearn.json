@@ -44,6 +44,11 @@
       "id": 9,
       "title": "Multiple Child Widgets",
       "web_site": "https://sites.google.com/view/multi-child-layout9/home"
+    },
+    {
+      "id": 10,
+      "title": "Handling gestures in Flutter",
+      "web_site": "https://sites.google.com/view/flutter-gestures10/home"
     }
   ]
 }
