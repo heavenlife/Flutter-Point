@@ -25,10 +25,15 @@
       "title": "Installation of Flutter",
       "web_site": "https://sites.google.com/view/flutter-installation5/home"
     },
-     {
+    {
       "id": 6,
       "title": "Architecture of Flutter",
       "web_site": "https://sites.google.com/view/flutter-architecture6/home"
+    },
+    {
+      "id": 7,
+      "title": "Types of Layout Widgets",
+      "web_site": "https://sites.google.com/view/flutter-layouts7/home"
     }
   ]
 }
