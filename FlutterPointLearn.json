@@ -47,8 +47,13 @@
     },
     {
       "id": 10,
+      "title": "Stateful and Stateless Widgets",
+      "web_site": "https://sites.google.com/view/stateful-stateless-flutter10/home"
+    },
+    {
+      "id": 11,
       "title": "Handling gestures in Flutter",
-      "web_site": "https://sites.google.com/view/flutter-gestures10/home"
+      "web_site": "https://sites.google.com/view/flutter-gestures11/home"
     }
   ]
 }
