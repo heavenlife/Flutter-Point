@@ -149,6 +149,31 @@
       "id": 30,
       "title": "Optional Parameters in Dart",
       "web_site": "https://sites.google.com/view/dart-file-30/home"
+    },
+    {
+      "id": 31,
+      "title": "Anonymous Functions in Dart",
+      "web_site": "https://sites.google.com/view/dart-file-31/home"
+    },
+    {
+      "id": 32,
+      "title": "Lexical Scoping in Dart",
+      "web_site": "https://sites.google.com/view/dart-file-32/home"
+    },
+    {
+      "id": 33,
+      "title": " ...s in Dart",
+      "web_site": "https://sites.google.com/view/dart-file-33/home"
+    },
+    {
+      "id": 34,
+      "title": "... in Dart",
+      "web_site": "https://sites.google.com/view/dart-file-34/home"
+    },
+    {
+      "id": 35,
+      "title": "... in Dart",
+      "web_site": "https://sites.google.com/view/dart-file-35/home"
     }
   ]
 }
