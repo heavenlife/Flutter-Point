@@ -15,7 +15,7 @@
       "explanation": "In 2009, Android released its second major release, Android version 1.5 Cupcake. With this release, the tradition of naming Android versions after confectionery started. With Cupcake, Android introduced the first on-screen keyboard as people moved to touchscreen smartphones from keypad-style handsets. They also introduced a framework for third-party app widgets, which was a significant step. Cupcake also introduced the platform’s first-ever video recording option."
     },
     {
-      "title": "Android 1.6 Donut",
+      "title": "Android 1.6\nDonut",
       "image": "https://heavenlife.github.io/Flutter-Point/dart_images/android_3.webp",
       "releaseDate": "September 15, 2009",
       "whatsNew": "Improved search functionality\nSupport for multiple screen sizes\nEnhanced camera features",
@@ -29,7 +29,7 @@
       "explanation": "Android 2.0 Eclair was released just six weeks after Donut. Android, with this version, gained widespread popularity among the masses due to the hype surrounding Motorola’s DROID phone and the marketing campaign led by Verizon. It introduced several key features, including SMS, MMS, voice-guided turn-by-turn navigation, real-time traffic information, pinch-to-zoom capability, Bluetooth 2.1, and several bug fixes."
     },
     {
-      "title": "Android 2.2 Froyo",
+      "title": "Android 2.2\nFroyo",
       "image": "https://heavenlife.github.io/Flutter-Point/dart_images/android_5.webp",
       "releaseDate": "May 20, 2010",
       "whatsNew": "Faster performance (JIT compiler)\nWi-Fi hotspot support\nImproved browser speed",
@@ -64,7 +64,7 @@
       "explanation": "Android Jelly Bean was introduced in 2012 and made the best impressions among new users. Jelly Bean was built on the foundation built by Android version 4.0. It polished many rough edges, making the OS more attractive and appealing. In addition, it improved accessibility and offered multiple features like screen lock, bug removal, 4K support, and Google Now."
     },
     {
-      "title": "Android 4.4 KitKat",
+      "title": "Android 4.4\nKitKat",
       "image": "https://heavenlife.github.io/Flutter-Point/dart_images/android_10.webp",
       "releaseDate": "October 31, 2013",
       "whatsNew": "Optimized for low-end devices\nImmersive mode\nVoice search (“OK Google”)",
@@ -99,7 +99,7 @@
       "explanation": "Oreo introduced several notable features, including picture-in-picture support, adaptive icons, 2x booting speed, Google Play Protect, a notification snoozing option, and many other features. It also contributed to Project Treble."
     },
     {
-      "title": "Android 9 Pie",
+      "title": "Android 9\nPie",
       "image": "https://heavenlife.github.io/Flutter-Point/dart_images/android_15.webp",
       "releaseDate": "August 6, 2018",
       "whatsNew": "Gesture navigation\nAI battery optimization\nDigital Wellbeing",
