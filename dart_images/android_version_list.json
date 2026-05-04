@@ -4,162 +4,162 @@
       "title": "Android 1.0 – 1.1 (No Codename)",
       "image": "https://heavenlife.github.io/Flutter-Point/dart_images/android_1.webp",
       "releaseDate": "September 23, 2008",
-      "whatsNew": "• First Android OS release\n• Google apps (Gmail, Maps, YouTube)\n• Android Market introduced",
-      "explanation": "Google released its first commercial Android version 1.0 in 2008.\nThis version was very basic but introduced core Google applications like Gmail, YouTube, Maps, Calendar, and Search.\nAll these apps were deeply integrated into the operating system, making Android a smart and connected platform from the beginning.\nIt also supported web browsing using HTML and XHTML, included a camera, Wi-Fi connectivity, and Bluetooth support.\nThis version laid the foundation for all future Android developments."
+      "whatsNew": "First Android OS release\n Google apps (Gmail, Maps, YouTube)\n Android Market introduced",
+      "explanation": "• Google released its first commercial Android version 1.0 in 2008.\n• This version was very basic but introduced core Google applications like Gmail, YouTube, Maps, Calendar, and Search.\nAll these apps were deeply integrated into the operating system, making Android a smart and connected platform from the beginning.\n• It also supported web browsing using HTML and XHTML, included a camera, Wi-Fi connectivity, and Bluetooth support.\nThis version laid the foundation for all future Android developments."
     },
     {
       "title": "Android 1.5 Cupcake",
       "image": "https://heavenlife.github.io/Flutter-Point/dart_images/android_2.webp",
       "releaseDate": "April 27, 2009",
-      "whatsNew": "• On-screen keyboard\n• Widgets support\n• Video recording",
-      "explanation": "Android 1.5 Cupcake marked a major step forward in 2009.\nIt introduced the first on-screen keyboard, allowing users to type directly on touchscreens instead of physical keypads.\nThis version also added support for widgets, enabling users to place interactive elements like clocks and weather directly on the home screen.\nAnother important feature was video recording, which allowed users to capture and share videos easily.\nCupcake also started the tradition of naming Android versions after desserts."
+      "whatsNew": "On-screen keyboard\n Widgets support\n Video recording",
+      "explanation": "• Android 1.5 Cupcake marked a major step forward in 2009.\n• It introduced the first on-screen keyboard, allowing users to type directly on touchscreens instead of physical keypads.\n• This version also added support for widgets, enabling users to place interactive elements like clocks and weather directly on the home screen.\nAnother important feature was video recording, which allowed users to capture and share videos easily.\n• Cupcake also started the tradition of naming Android versions after desserts."
     },
     {
       "title": "Android 1.6 Donut",
       "image": "https://heavenlife.github.io/Flutter-Point/dart_images/android_3.webp",
       "releaseDate": "September 15, 2009",
-      "whatsNew": "• Improved search functionality\n• Support for multiple screen sizes\n• Enhanced camera features",
-      "explanation": "Android 1.6 Donut improved usability and expanded device compatibility.\nIt introduced enhanced search features, including voice and text search across apps and the web.\nThis version also added support for different screen sizes and resolutions, helping Android grow across various devices.\nCamera performance was improved, and users could now manage photos more efficiently.\nDonut played a key role in making Android more flexible and scalable."
+      "whatsNew": "Improved search functionality\n Support for multiple screen sizes\n Enhanced camera features",
+      "explanation": "• Android 1.6 Donut improved usability and expanded device compatibility.\n• It introduced enhanced search features, including voice and text search across apps and the web.\n• This version also added support for different screen sizes and resolutions, helping Android grow across various devices.\n• Camera performance was improved, and users could now manage photos more efficiently.\n• Donut played a key role in making Android more flexible and scalable."
     },
     {
       "title": "Android 2.0 – 2.1 Eclair",
       "image": "https://heavenlife.github.io/Flutter-Point/dart_images/android_4.webp",
       "releaseDate": "October 26, 2009",
-      "whatsNew": "• Google Maps Navigation\n• Multiple account support\n• Improved UI and performance",
-      "explanation": "Android Eclair brought significant improvements in performance and user experience.\nIt introduced turn-by-turn navigation using Google Maps, which was a major innovation at the time.\nUsers could now add multiple accounts on a single device, improving flexibility.\nThe UI became more refined with smoother animations and better responsiveness.\nFeatures like Bluetooth 2.1 and pinch-to-zoom made devices more powerful and user-friendly."
+      "whatsNew": "Google Maps Navigation\n Multiple account support\n Improved UI and performance",
+      "explanation": "• Android Eclair brought significant improvements in performance and user experience.\n• It introduced turn-by-turn navigation using Google Maps, which was a major innovation at the time.\nUsers could now add multiple accounts on a single device, improving flexibility.\n• The UI became more refined with smoother animations and better responsiveness.\n• Features like Bluetooth 2.1 and pinch-to-zoom made devices more powerful and user-friendly."
     },
     {
       "title": "Android 2.2 Froyo",
       "image": "https://heavenlife.github.io/Flutter-Point/dart_images/android_5.webp",
       "releaseDate": "May 20, 2010",
-      "whatsNew": "• Faster performance (JIT compiler)\n• Wi-Fi hotspot support\n• Improved browser speed",
-      "explanation": "Android Froyo focused heavily on performance improvements.\nIt introduced the JIT compiler, which significantly boosted application speed and responsiveness.\nUsers could now turn their phones into Wi-Fi hotspots, sharing internet with other devices.\nThe browser performance was also enhanced for faster web browsing.\nFroyo made Android devices much more efficient and powerful."
+      "whatsNew": "Faster performance (JIT compiler)\n Wi-Fi hotspot support\n Improved browser speed",
+      "explanation": "• Android Froyo focused heavily on performance improvements.\n• It introduced the JIT compiler, which significantly boosted application speed and responsiveness.\n• Users could now turn their phones into Wi-Fi hotspots, sharing internet with other devices.\n• The browser performance was also enhanced for faster web browsing.\n• Froyo made Android devices much more efficient and powerful."
     },
     {
       "title": "Android 2.3 Gingerbread",
       "image": "https://heavenlife.github.io/Flutter-Point/dart_images/android_6.webp",
       "releaseDate": "December 6, 2010",
-      "whatsNew": "• Improved UI (dark theme)\n• Better gaming performance\n• Enhanced battery management",
-      "explanation": "With Gingerbread, Android began to adopt a distinctive visual design.\nThe interface used a combination of green and black colors, giving it a unique and recognizable look.\nThis version improved overall system performance and provided better support for gaming.\nIt also introduced enhanced battery management to increase device efficiency.\nAdditionally, Gingerbread supported extra-large screens, improved copy and paste functionality, and introduced NFC (Near Field Communication) support.\nThese improvements made Android more powerful and user-friendly."
+      "whatsNew": "Improved UI (dark theme)\n Better gaming performance\n Enhanced battery management",
+      "explanation": "• With Gingerbread, Android began to adopt a distinctive visual design.\n• The interface used a combination of green and black colors, giving it a unique and recognizable look.\nThis version improved overall system performance and provided better support for gaming.\n• It also introduced enhanced battery management to increase device efficiency.\n• Additionally, Gingerbread supported extra-large screens, improved copy and paste functionality, and introduced NFC (Near Field Communication) support.\n• These improvements made Android more powerful and user-friendly."
     },
     {
       "title": "Android 3.0 – 3.2 Honeycomb",
       "image": "https://heavenlife.github.io/Flutter-Point/dart_images/android_7.webp",
       "releaseDate": "February 22, 2011",
-      "whatsNew": "• Tablet-optimized UI\n• System bar and action bar\n• Improved multitasking",
-      "explanation": "Android Honeycomb was specifically designed for tablets, marking Android’s first major step into large-screen devices.\nIt introduced a completely new UI with a holographic design, different from earlier versions.\nThe system bar and action bar improved navigation and accessibility across apps.\nMultitasking was enhanced, allowing users to switch between apps more smoothly.\nThis version was mainly used on tablets like the Motorola Xoom and was not available for smartphones.\nHoneycomb helped Android adapt to the growing tablet market."
+      "whatsNew": "Tablet-optimized UI\n System bar and action bar\n Improved multitasking",
+      "explanation": "• Android Honeycomb was specifically designed for tablets, marking Android’s first major step into large-screen devices.\n• It introduced a completely new UI with a holographic design, different from earlier versions.\n• The system bar and action bar improved navigation and accessibility across apps.\n• Multitasking was enhanced, allowing users to switch between apps more smoothly.\n• This version was mainly used on tablets like the Motorola Xoom and was not available for smartphones.\n• Honeycomb helped Android adapt to the growing tablet market."
     },
     {
       "title": "Android 4.0 Ice Cream Sandwich",
       "image": "https://heavenlife.github.io/Flutter-Point/dart_images/android_8.webp",
       "releaseDate": "October 18, 2011",
-      "whatsNew": "• Unified phone and tablet UI\n• Face Unlock\n• Improved multitasking",
-      "explanation": "Ice Cream Sandwich introduced a unified design for both smartphones and tablets.\nIt combined the best features of phone and tablet interfaces into a single system.\nThis version introduced Face Unlock, allowing users to unlock their device using facial recognition.\nThe UI became smoother with swipe gestures for navigation.\nIt also introduced the 'Holo' design framework, setting a standard design language for Android apps.\nThis version marked the beginning of modern Android design."
+      "whatsNew": "Unified phone and tablet UI\n Face Unlock\n Improved multitasking",
+      "explanation": "• Ice Cream Sandwich introduced a unified design for both smartphones and tablets.\n• It combined the best features of phone and tablet interfaces into a single system.\nThis version introduced Face Unlock, allowing users to unlock their device using facial recognition.\n• The UI became smoother with swipe gestures for navigation.\n• It also introduced the 'Holo' design framework, setting a standard design language for Android apps.\n• This version marked the beginning of modern Android design."
     },
     {
       "title": "Android 4.1 – 4.3 Jelly Bean",
       "image": "https://heavenlife.github.io/Flutter-Point/dart_images/android_9.webp",
       "releaseDate": "July 9, 2012",
-      "whatsNew": "• Project Butter (smooth UI)\n• Google Now\n• Improved notifications",
-      "explanation": "Android Jelly Bean focused on making the user interface faster and smoother.\nWith Project Butter, animations became more fluid and responsive.\nIt introduced Google Now, providing smart suggestions and real-time information based on user behavior.\nNotifications were improved, allowing users to expand and interact with them directly.\nJelly Bean also enhanced accessibility and fixed many performance issues from previous versions.\nThis version made Android more polished and user-friendly."
+      "whatsNew": "Project Butter (smooth UI)\n Google Now\n Improved notifications",
+      "explanation": "• Android Jelly Bean focused on making the user interface faster and smoother.\n• With Project Butter, animations became more fluid and responsive.\n• It introduced Google Now, providing smart suggestions and real-time information based on user behavior.\n• Notifications were improved, allowing users to expand and interact with them directly.\n• Jelly Bean also enhanced accessibility and fixed many performance issues from previous versions.\n• This version made Android more polished and user-friendly."
     },
     {
       "title": "Android 4.4 KitKat",
       "image": "https://heavenlife.github.io/Flutter-Point/dart_images/android_10.webp",
       "releaseDate": "October 31, 2013",
-      "whatsNew": "• Optimized for low-end devices\n• Immersive mode\n• Voice search (\"OK Google\")",
-      "explanation": "Android 4.4 KitKat focused on improving performance, especially for low-end devices.\nIt was optimized to run smoothly even on devices with limited RAM, making Android accessible to more users.\nKitKat introduced immersive mode, allowing apps to take full control of the screen for a distraction-free experience.\nThe 'OK Google' voice command feature was introduced, enabling hands-free search and actions.\nIt also improved app compatibility, smart caller ID, and overall system efficiency.\nThis version helped Android expand rapidly across a wider range of devices."
+      "whatsNew": "Optimized for low-end devices\n Immersive mode\n Voice search (\"OK Google\")",
+      "explanation": "• Android 4.4 KitKat focused on improving performance, especially for low-end devices.\n• It was optimized to run smoothly even on devices with limited RAM, making Android accessible to more users.\n• KitKat introduced immersive mode, allowing apps to take full control of the screen for a distraction-free experience.\n• The 'OK Google' voice command feature was introduced, enabling hands-free search and actions.\n• It also improved app compatibility, smart caller ID, and overall system efficiency.\n• This version helped Android expand rapidly across a wider range of devices."
     },
     {
       "title": "Android 5.0 – 5.1 Lollipop",
       "image": "https://heavenlife.github.io/Flutter-Point/dart_images/android_11.webp",
       "releaseDate": "November 12, 2014",
-      "whatsNew": "• Material Design\n• New animations\n• Improved notifications",
-      "explanation": "Android Lollipop brought one of the biggest visual changes in Android history.\nIt introduced Material Design, a modern design system with bold colors, smooth animations, and a clean layout.\nThe entire UI was redesigned to provide a more consistent and attractive experience.\nNotifications were improved and became accessible directly from the lock screen.\nLollipop also enhanced performance and extended 'OK Google' support to work even when the screen was off.\nThis version set the design foundation that Android still follows today."
+      "whatsNew": "Material Design\n New animations\n Improved notifications",
+      "explanation": "• Android Lollipop brought one of the biggest visual changes in Android history.\n• It introduced Material Design, a modern design system with bold colors, smooth animations, and a clean layout.\n• The entire UI was redesigned to provide a more consistent and attractive experience.\n• Notifications were improved and became accessible directly from the lock screen.\n• Lollipop also enhanced performance and extended 'OK Google' support to work even when the screen was off.\n• This version set the design foundation that Android still follows today."
     },
     {
       "title": "Android 6.0 Marshmallow",
       "image": "https://heavenlife.github.io/Flutter-Point/dart_images/android_12.webp",
       "releaseDate": "October 5, 2015",
-      "whatsNew": "• App permissions control\n• Fingerprint unlock\n• Doze battery saving",
-      "explanation": "Android Marshmallow focused on improving user control and battery efficiency.\nIt introduced a new app permissions system, allowing users to control permissions individually.\nFingerprint support was officially added, enabling secure unlocking and payments.\nThe Doze mode significantly improved battery life by reducing background activity when the device is idle.\nIt also introduced support for USB-C and improved app standby features.\nThis version made Android more secure and efficient."
+      "whatsNew": "App permissions control\n Fingerprint unlock\n Doze battery saving",
+      "explanation": "• Android Marshmallow focused on improving user control and battery efficiency.\n• It introduced a new app permissions system, allowing users to control permissions individually.\n• Fingerprint support was officially added, enabling secure unlocking and payments.\n• The Doze mode significantly improved battery life by reducing background activity when the device is idle.\n• It also introduced support for USB-C and improved app standby features.\n• This version made Android more secure and efficient."
     },
     {
       "title": "Android 7.0 – 7.1 Nougat",
       "image": "https://heavenlife.github.io/Flutter-Point/dart_images/android_13.webp",
       "releaseDate": "August 22, 2016",
-      "whatsNew": "• Split-screen multitasking\n• Improved notifications\n• Better performance",
-      "explanation": "Android Nougat introduced powerful multitasking features.\nUsers could run two apps side-by-side using split-screen mode.\nNotifications were enhanced with direct replies and better grouping.\nIt also introduced Data Saver, file-based encryption, and improved battery performance.\nNougat marked the debut of Google Assistant on Android devices.\nThis version improved both productivity and performance."
+      "whatsNew": "Split-screen multitasking\n Improved notifications\n Better performance",
+      "explanation": "• Android Nougat introduced powerful multitasking features.\n• Users could run two apps side-by-side using split-screen mode.\n• Notifications were enhanced with direct replies and better grouping.\n• It also introduced Data Saver, file-based encryption, and improved battery performance.\n• Nougat marked the debut of Google Assistant on Android devices.\n• This version improved both productivity and performance."
     },
     {
       "title": "Android 8.0 – 8.1 Oreo",
       "image": "https://heavenlife.github.io/Flutter-Point/dart_images/android_14.webp",
       "releaseDate": "August 21, 2017",
-      "whatsNew": "• Picture-in-picture mode\n• Faster boot time\n• Notification dots",
-      "explanation": "Android Oreo focused on speed, performance, and smarter notifications.\nIt introduced picture-in-picture mode, allowing users to watch videos while using other apps.\nBoot time was significantly improved, making devices start faster.\nNotification dots were added to show app alerts directly on icons.\nOreo also introduced Project Treble, enabling faster Android updates.\nAdditional features included adaptive icons and Google Play Protect for better security."
+      "whatsNew": "Picture-in-picture mode\n Faster boot time\n Notification dots",
+      "explanation": "• Android Oreo focused on speed, performance, and smarter notifications.\n• It introduced picture-in-picture mode, allowing users to watch videos while using other apps.\n• Boot time was significantly improved, making devices start faster.\n• Notification dots were added to show app alerts directly on icons.\n• Oreo also introduced Project Treble, enabling faster Android updates.\n• Additional features included adaptive icons and Google Play Protect for better security."
     },
     {
       "title": "Android 9 Pie",
       "image": "https://heavenlife.github.io/Flutter-Point/dart_images/android_15.webp",
       "releaseDate": "August 6, 2018",
-      "whatsNew": "• Gesture navigation\n• AI battery optimization\n• Digital Wellbeing",
-      "explanation": "Android Pie introduced a more intelligent and modern user experience.\nIt replaced traditional navigation buttons with gesture-based navigation.\nAI-powered battery optimization learned user behavior to extend battery life.\nDigital Wellbeing tools were added to help users manage screen time and app usage.\nPie also improved security, privacy, and adaptive brightness features.\nThis version made Android smarter and more user-focused."
+      "whatsNew": "Gesture navigation\n AI battery optimization\n Digital Wellbeing",
+      "explanation": "• Android Pie introduced a more intelligent and modern user experience.\n• It replaced traditional navigation buttons with gesture-based navigation.\n• AI-powered battery optimization learned user behavior to extend battery life.\n• Digital Wellbeing tools were added to help users manage screen time and app usage.\n• Pie also improved security, privacy, and adaptive brightness features.\n• This version made Android smarter and more user-focused."
     },
     {
       "title": "Android 10",
       "image": "https://heavenlife.github.io/Flutter-Point/dart_images/android_16.webp",
       "releaseDate": "September 3, 2019",
-      "whatsNew": "• Dark mode\n• Privacy controls\n• Gesture navigation",
-      "explanation": "Android 10 marked a major change by removing dessert-based version names.\nIt introduced system-wide dark mode, improving battery life and reducing eye strain.\nGesture-based navigation was improved with a more fluid and modern experience.\nPrivacy controls were enhanced, allowing users to manage location and app permissions more precisely.\nThis version also included many background improvements for performance, security, and usability.\nAndroid 10 made the system more secure and user-focused."
+      "whatsNew": "Dark mode\n Privacy controls\n Gesture navigation",
+      "explanation": "• Android 10 marked a major change by removing dessert-based version names.\n• It introduced system-wide dark mode, improving battery life and reducing eye strain.\n• Gesture-based navigation was improved with a more fluid and modern experience.\n• Privacy controls were enhanced, allowing users to manage location and app permissions more precisely.\n• This version also included many background improvements for performance, security, and usability.\n• Android 10 made the system more secure and user-focused."
     },
     {
       "title": "Android 11",
       "image": "https://heavenlife.github.io/Flutter-Point/dart_images/android_17.webp",
       "releaseDate": "September 8, 2020",
-      "whatsNew": "• Chat bubbles\n• Screen recording\n• Media controls",
-      "explanation": "Android 11 focused heavily on communication and privacy improvements.\nIt introduced chat bubbles, allowing conversations to float over other apps.\nA built-in screen recording feature was added for easy video capture.\nMedia controls were redesigned for better accessibility and usability.\nPrivacy improvements included one-time permissions and better control over background access.\nThis version made Android more interactive and secure."
+      "whatsNew": "Chat bubbles\n Screen recording\n Media controls",
+      "explanation": "• Android 11 focused heavily on communication and privacy improvements.\n• It introduced chat bubbles, allowing conversations to float over other apps.\n• A built-in screen recording feature was added for easy video capture.\n• Media controls were redesigned for better accessibility and usability.\n• Privacy improvements included one-time permissions and better control over background access.\nThis version made Android more interactive and secure."
     },
     {
       "title": "Android 12",
       "image": "https://heavenlife.github.io/Flutter-Point/dart_images/android_18.webp",
       "releaseDate": "October 4, 2021",
-      "whatsNew": "• Material You\n• Dynamic colors\n• Privacy dashboard",
-      "explanation": "Android 12 introduced one of the biggest design overhauls in Android history.\nWith Material You, the UI became highly customizable with dynamic colors based on wallpapers.\nThe system automatically adapts colors across apps for a consistent look.\nA new privacy dashboard allows users to see and manage app permissions easily.\nWidgets and animations were redesigned for a smoother experience.\nAndroid 12 focused on personalization and transparency."
+      "whatsNew": "Material You\n Dynamic colors\n Privacy dashboard",
+      "explanation": "• Android 12 introduced one of the biggest design overhauls in Android history.\n• With Material You, the UI became highly customizable with dynamic colors based on wallpapers.\n• The system automatically adapts colors across apps for a consistent look.\n• A new privacy dashboard allows users to see and manage app permissions easily.\n• Widgets and animations were redesigned for a smoother experience.\nAndroid 12 focused on personalization and transparency."
     },
     {
       "title": "Android 13",
       "image": "https://heavenlife.github.io/Flutter-Point/dart_images/android_19.webp",
       "releaseDate": "August 15, 2022",
-      "whatsNew": "• Per-app language\n• Better privacy\n• Improved media controls",
-      "explanation": "Android 13 continued improving personalization and security.\nIt introduced per-app language settings, allowing users to set different languages for different apps.\nPrivacy was enhanced with stricter permission controls and improved security features.\nMedia controls were redesigned for a better listening experience.\nThis version also improved performance and support for larger screens and foldable devices.\nAndroid 13 refined the overall user experience."
+      "whatsNew": "Per-app language\n Better privacy\n Improved media controls",
+      "explanation": "• Android 13 continued improving personalization and security.\n• It introduced per-app language settings, allowing users to set different languages for different apps.\n• Privacy was enhanced with stricter permission controls and improved security features.\n• Media controls were redesigned for a better listening experience.\n• This version also improved performance and support for larger screens and foldable devices.\nAndroid 13 refined the overall user experience."
     },
     {
       "title": "Android 14",
       "image": "https://heavenlife.github.io/Flutter-Point/dart_images/android_20.webp",
       "releaseDate": "October 4, 2023",
-      "whatsNew": "• Battery improvements\n• Accessibility features\n• Larger font scaling",
-      "explanation": "Android 14 focused on accessibility, customization, and performance.\nIt introduced larger font scaling options for better readability.\nBattery efficiency was improved with smarter background management.\nNew accessibility features made the system easier to use for all users.\nIt also introduced Ultra HDR support and better camera features.\nAndroid 14 enhanced both usability and performance."
+      "whatsNew": "Battery improvements\n Accessibility features\n Larger font scaling",
+      "explanation": "• Android 14 focused on accessibility, customization, and performance.\n• It introduced larger font scaling options for better readability.\n• Battery efficiency was improved with smarter background management.\n• New accessibility features made the system easier to use for all users.\nIt also introduced Ultra HDR support and better camera features.\n• Android 14 enhanced both usability and performance."
     },
     {
       "title": "Android 15",
       "image": "https://heavenlife.github.io/Flutter-Point/dart_images/android_21.webp",
       "releaseDate": "2024",
-      "whatsNew": "• Multitasking improvements\n• Privacy updates\n• Satellite connectivity",
-      "explanation": "Android 15 focuses on improving multitasking and connectivity.\nIt enhances split-screen and multi-window functionality for better productivity.\nPrivacy updates provide more control over user data and permissions.\nSatellite connectivity support enables communication in remote areas.\nThis version also includes system optimizations for smoother performance.\nAndroid 15 aims to make devices more powerful and reliable."
+      "whatsNew": "Multitasking improvements\n Privacy updates\n Satellite connectivity",
+      "explanation": "• Android 15 focuses on improving multitasking and connectivity.\n• It enhances split-screen and multi-window functionality for better productivity.\n• Privacy updates provide more control over user data and permissions.\nSatellite connectivity support enables communication in remote areas.\n• This version also includes system optimizations for smoother performance.\n• Android 15 aims to make devices more powerful and reliable."
     },
     {
       "title": "Android 16",
       "image": "https://heavenlife.github.io/Flutter-Point/dart_images/android_22.webp",
       "releaseDate": "2025 (Expected)",
-      "whatsNew": "• Advanced AI Integration\n• On-device AI Processing\n• Smarter Battery Optimization\n• Improved Multitasking UI\n• Stronger Privacy & Security",
-      "explanation": "Android 16 is expected to focus heavily on AI-powered features.\nIt introduces on-device AI processing for faster and more private experiences.\nBattery optimization will use AI to adapt to user behavior.\nMultitasking UI will be improved for better usability on large and foldable screens.\nPrivacy and security will be further strengthened with advanced controls.\nAndroid 16 aims to deliver a smarter and more efficient system."
+      "whatsNew": " Advanced AI Integration\n On-device AI Processing\n Smarter Battery Optimization\n Improved Multitasking UI\n Stronger Privacy & Security",
+      "explanation": "• Android 16 is expected to focus heavily on AI-powered features.\n• It introduces on-device AI processing for faster and more private experiences.\n• Battery optimization will use AI to adapt to user behavior.\nMultitasking UI will be improved for better usability on large and foldable screens.\n• Privacy and security will be further strengthened with advanced controls.\n• Android 16 aims to deliver a smarter and more efficient system."
     },
     {
       "title": "Android 17",
       "image": "https://heavenlife.github.io/Flutter-Point/dart_images/android_23.webp",
       "releaseDate": "2026 (Upcoming)",
-      "whatsNew": "• Enhanced AI integration\n• Better foldable device support\n• Improved battery optimization",
-      "explanation": "Android 17 is expected to further enhance AI capabilities across the system.\nIt will improve support for foldable and large-screen devices.\nBattery management will become more intelligent and efficient.\nThe system is expected to deliver a smoother and more adaptive user experience.\nAlthough details are limited, it will focus on performance, usability, and innovation.\nAndroid 17 aims to continue the evolution of smart mobile systems."
+      "whatsNew": "Enhanced AI integration\n Better foldable device support\n Improved battery optimization",
+      "explanation": "• Android 17 is expected to further enhance AI capabilities across the system.\n• It will improve support for foldable and large-screen devices.\n• Battery management will become more intelligent and efficient.\n• The system is expected to deliver a smoother and more adaptive user experience.\n• Although details are limited, it will focus on performance, usability, and innovation.\n• Android 17 aims to continue the evolution of smart mobile systems."
     }
   ]
 }
