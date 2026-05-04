@@ -1,0 +1,165 @@
+{
+  "androidVersions": [
+    {
+      "title": "Android 1.0 – 1.1 (No Codename)",
+      "image": "https://heavenlife.github.io/Flutter-Point/dart_images/android_1.webp",
+      "releaseDate": "September 23, 2008",
+      "whatsNew": "First Android OS release\nGoogle apps (Gmail, Maps, YouTube)\nAndroid Market introduced",
+      "explanation": "Google released its first commercial Android version 1.0 in 2008. This version of Android was very basic but had Google apps like Gmail, YouTube, Calendar, Maps, Search, Instant Messaging, and many more. All of these applications were integrated directly into the Android OS. It also supported HTML and XHTML web pages, featured a camera, Wi-Fi, and included Bluetooth support."
+    },
+    {
+      "title": "Android 1.5 – Cupcake",
+      "image": "https://heavenlife.github.io/Flutter-Point/dart_images/android_2.webp",
+      "releaseDate": "April 27, 2009",
+      "whatsNew": "On-screen keyboard\nWidgets support\nVideo recording",
+      "explanation": "In 2009, Android released its second major release, Android version 1.5 Cupcake. With this release, the tradition of naming Android versions after confectionery started. With Cupcake, Android introduced the first on-screen keyboard as people moved to touchscreen smartphones from keypad-style handsets. They also introduced a framework for third-party app widgets, which was a significant step. Cupcake also introduced the platform’s first-ever video recording option."
+    },
+    {
+      "title": "Android 1.6 – Donut",
+      "image": "https://heavenlife.github.io/Flutter-Point/dart_images/android_3.webp",
+      "releaseDate": "September 15, 2009",
+      "whatsNew": "Improved search functionality\nSupport for multiple screen sizes\nEnhanced camera features",
+      "explanation": "In the fall of 2009, Android dropped its next major update, Android 1.6 Donut. It came out at the right time, as the world slowly transitioned towards bigger screens and resolution phones. Donut came with built-in support for CDMA networks, which helped Android grow quickly. In addition, it introduced multiple new features like voice and text entry search, bookmark history, and WVGA resolution. It also allowed the users to select multiple photos for deletion at a time."
+    },
+    {
+      "title": "Android 2.0 – 2.1 – Eclair",
+      "image": "https://heavenlife.github.io/Flutter-Point/dart_images/android_4.webp",
+      "releaseDate": "October 26, 2009",
+      "whatsNew": "Google Maps Navigation\nMultiple account support\nImproved UI and performance",
+      "explanation": "Android 2.0 Eclair was released just six weeks after Donut. Android, with this version, gained widespread popularity among the masses due to the hype surrounding Motorola’s DROID phone and the marketing campaign led by Verizon. It introduced several key features, including SMS, MMS, voice-guided turn-by-turn navigation, real-time traffic information, pinch-to-zoom capability, Bluetooth 2.1, and several bug fixes."
+    },
+    {
+      "title": "Android 2.2 – Froyo",
+      "image": "https://heavenlife.github.io/Flutter-Point/dart_images/android_5.webp",
+      "releaseDate": "May 20, 2010",
+      "whatsNew": "Faster performance (JIT compiler)\nWi-Fi hotspot support\nImproved browser speed",
+      "explanation": "Froyo was released four months after Eclair’s introduction. This version of Android primarily focused on enhancing back-end performance, improving speed, and optimizing memory usage. In addition, it introduced voice actions, which allowed users to perform basic functions like speaking a command, making notes, and getting directions. It also supported Adobe Flash."
+    },
+    {
+      "title": "Android 2.3 – Gingerbread",
+      "image": "https://heavenlife.github.io/Flutter-Point/dart_images/android_6.webp",
+      "releaseDate": "December 6, 2010",
+      "whatsNew": "Improved UI (dark theme)\nBetter gaming performance\nEnhanced battery management",
+      "explanation": "With Gingerbread, Android began to adopt a distinctive visual design. For example, the Android mascot is green in color, and this version’s prominent colors were Green and Black. In addition, Gingerbread supported an extra-large screen, a simplified interface, enhanced copy/paste functions, NFC (Near Field Communication), and a host of improvements."
+    },
+    {
+      "title": "Android 3.0 – 3.2 – Honeycomb",
+      "image": "https://heavenlife.github.io/Flutter-Point/dart_images/android_7.webp",
+      "releaseDate": "February 22, 2011",
+      "whatsNew": "Tablet-optimized UI\nSystem bar and action bar\nImproved multitasking",
+      "explanation": "Android released the Honeycomb version in 2011 for the first Android-based tablet, the Motorola Xoom. With subsequent updates, 3.1 and 3.2, the Honeycomb remained a tablet-exclusive entity. This was a detour for Android’s visual appeal, as this time it had a colored holographic design. It was designed to make the most of the tablet’s widescreen space."
+    },
+    {
+      "title": "Android 4.0 – Ice Cream Sandwich",
+      "image": "https://heavenlife.github.io/Flutter-Point/dart_images/android_8.webp",
+      "releaseDate": "October 18, 2011",
+      "whatsNew": "Unified phone and tablet UI\nFace Unlock\nImproved multitasking",
+      "explanation": "Ice Cream Sandwich marked the entry of Android into the modern design language. It refined all the visual elements with a single, unified UI vision that reunited phone and tablet design. It carried over the card-like appearance from Honeycomb and also introduced swiping. It also introduced a framework for design standardization, known as ‘Holo’."
+    },
+    {
+      "title": "Android 4.1 – 4.3 – Jelly Bean",
+      "image": "https://heavenlife.github.io/Flutter-Point/dart_images/android_9.webp",
+      "releaseDate": "July 9, 2012",
+      "whatsNew": "Project Butter (smooth UI)\nGoogle Now\nImproved notifications",
+      "explanation": "Android Jelly Bean was introduced in 2012 and made the best impressions among new users. Jelly Bean was built on the foundation built by Android version 4.0. It polished many rough edges, making the OS more attractive and appealing. In addition, it improved accessibility and offered multiple features like screen lock, bug removal, 4K support, and Google Now."
+    },
+    {
+      "title": "Android 4.4 – KitKat",
+      "image": "https://heavenlife.github.io/Flutter-Point/dart_images/android_10.webp",
+      "releaseDate": "October 31, 2013",
+      "whatsNew": "Optimized for low-end devices\nImmersive mode\nVoice search (“OK Google”)",
+      "explanation": "Late in 2013, Android released KitKat. This Android version introduced several key features, including ‘OK Google’ support, offline music support, smart caller ID, and improved application compatibility, among others."
+    },
+    {
+      "title": "Android 5.0 – 5.1 – Lollipop",
+      "image": "https://heavenlife.github.io/Flutter-Point/dart_images/android_11.webp",
+      "releaseDate": "November 12, 2014",
+      "whatsNew": "Material Design\nNew animations\nImproved notifications",
+      "explanation": "With the version Lollipop, Android reinvented itself. Amongst all these versions in the Android list, it established the material design standard, which stands even today. It gave the OS a fresh and new visual look. It also introduced at-a-glance access for all the notifications from the lock screen itself and improved ‘OK Google’ support."
+    },
+    {
+      "title": "Android 6.0 – Marshmallow",
+      "image": "https://heavenlife.github.io/Flutter-Point/dart_images/android_12.webp",
+      "releaseDate": "October 5, 2015",
+      "whatsNew": "App permissions control\nFingerprint unlock\nDoze battery saving",
+      "explanation": "With Marshmallow, Android started the trend of releasing a significant update per year. It introduced support for fingerprint readers, USB-C, the App Standby feature, and Doze mode to save battery life, among other notable features."
+    },
+    {
+      "title": "Android 7.0 – 7.1 – Nougat",
+      "image": "https://heavenlife.github.io/Flutter-Point/dart_images/android_13.webp",
+      "releaseDate": "August 22, 2016",
+      "whatsNew": "Split-screen multitasking\nImproved notifications\nBetter performance",
+      "explanation": "Android Nougat is popular for releasing the Google Assistant. It offered features including split-screen mode, a Data Saver feature, file-based encryption, battery usage alerts, and a zoom-in screen."
+    },
+    {
+      "title": "Android 8.0 – 8.1 – Oreo",
+      "image": "https://heavenlife.github.io/Flutter-Point/dart_images/android_14.webp",
+      "releaseDate": "August 21, 2017",
+      "whatsNew": "Picture-in-picture mode\nFaster boot time\nNotification dots",
+      "explanation": "Oreo introduced several notable features, including picture-in-picture support, adaptive icons, 2x booting speed, Google Play Protect, a notification snoozing option, and many other features. It also contributed to Project Treble."
+    },
+    {
+      "title": "Android 9 – Pie",
+      "image": "https://heavenlife.github.io/Flutter-Point/dart_images/android_15.webp",
+      "releaseDate": "August 6, 2018",
+      "whatsNew": "Gesture navigation\nAI battery optimization\nDigital Wellbeing",
+      "explanation": "Pie brought some fresh air to the Android mobile OS. The most popular change was the hybrid gesture/button navigation system. Pie also introduced many productivity features, security and privacy enhancements, as well as intelligent systems to manage power and screen brightness."
+    },
+    {
+      "title": "Android 10",
+      "image": "https://heavenlife.github.io/Flutter-Point/dart_images/android_16.webp",
+      "releaseDate": "September 3, 2019",
+      "whatsNew": "Dark mode\nPrivacy controls\nGesture navigation",
+      "explanation": "With this version, Android dropped the naming tradition of each major release along with an item of confectionery. This version introduced even more visual interface upgrades for Android gestures and a swipe-driven navigation approach along with granular permissions and control over location data."
+    },
+    {
+      "title": "Android 11",
+      "image": "https://heavenlife.github.io/Flutter-Point/dart_images/android_17.webp",
+      "releaseDate": "September 8, 2020",
+      "whatsNew": "Chat bubbles\nScreen recording\nMedia controls",
+      "explanation": "Android 11 was released during the COVID-19 pandemic. It focused on privacy with more granular app permissions, simplified panels, conversation-style notifications, native screen-recording features, and connected-device controls."
+    },
+    {
+      "title": "Android 12",
+      "image": "https://heavenlife.github.io/Flutter-Point/dart_images/android_18.webp",
+      "releaseDate": "October 4, 2021",
+      "whatsNew": "Material You\nDynamic colors\nPrivacy dashboard",
+      "explanation": "Android 12 completely transformed the standard to create Material You, a very visually customizable Android version. It renewed its focus on widgets and easy accessibility."
+    },
+    {
+      "title": "Android 13",
+      "image": "https://heavenlife.github.io/Flutter-Point/dart_images/android_19.webp",
+      "releaseDate": "August 15, 2022",
+      "whatsNew": "Per-app language\nBetter privacy\nImproved media controls",
+      "explanation": "Android 13 is a stable OS launched in 2022 with a new interface design. It made strides in improving security, privacy, and performance while laying the foundation for bigger screens and foldables."
+    },
+    {
+      "title": "Android 14",
+      "image": "https://heavenlife.github.io/Flutter-Point/dart_images/android_20.webp",
+      "releaseDate": "October 4, 2023",
+      "whatsNew": "Battery improvements\nAccessibility features\nLarger font scaling",
+      "explanation": "Android 14 aims to provide rich camera and media experiences with Ultra HDR and lossless USB audio. It offers per-app languages, predictive text, Health Connect, and Credential Manager."
+    },
+    {
+      "title": "Android 15",
+      "image": "https://heavenlife.github.io/Flutter-Point/dart_images/android_21.webp",
+      "releaseDate": "2024",
+      "whatsNew": "Multitasking improvements\nPrivacy updates\nSatellite connectivity",
+      "explanation": "This version was set to launch in the fourth quarter of 2024 with several new features and enhanced capabilities including improved multitasking, privacy, and satellite connectivity."
+    },
+    {
+      "title": "Android 16",
+      "image": "https://heavenlife.github.io/Flutter-Point/dart_images/android_22.webp",
+      "releaseDate": "2025 (Expected)",
+      "whatsNew": "Advanced AI Integration\nOn-device AI Processing\nSmarter Battery Optimization\nImproved Multitasking UI\nStronger Privacy & Security",
+      "explanation": "Android 16 focuses on enhancing multitasking, accessibility, user privacy, performance, and device compatibility. Key features include Live Activities, improved support for larger screens and foldables, and advanced camera capabilities."
+    },
+    {
+      "title": "Android 17",
+      "image": "https://heavenlife.github.io/Flutter-Point/dart_images/android_23.webp",
+      "releaseDate": "2026 (Upcoming)",
+      "whatsNew": "Enhanced AI integration\nBetter foldable device support\nImproved battery optimization",
+      "explanation": "As of October 2025, Android 17 is the upcoming Android release, anticipated for mid-2026. It is expected to focus on enhancing AI integration, foldable device support, and battery optimization."
+    }
+  ]
+}
