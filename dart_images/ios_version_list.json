@@ -1,0 +1,12 @@
+{
+    "iosVersions": [
+      {
+        "title": "iOS 18",
+        "image": "url_to_image",
+        "releaseDate": "September 2024",
+        "whatsNew": "Feature 1\nFeature 2",
+        "explanation": "Description here"
+        "explanation": "Description here"
+      }
+    ]
+  }
