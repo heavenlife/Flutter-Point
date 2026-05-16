@@ -1,12 +1,124 @@
-{
+ {
     "iosVersions": [
       {
         "title": "iOS 18",
-        "image": "url_to_image",
+        "image": "https://heavenlife.github.io/Flutter-Point/dart_images/ios/ios_18.png",
         "releaseDate": "September 2024",
-        "whatsNew": "Feature 1\nFeature 2",
-        "explanation": "Description here"
-        "explanation": "Description here"
+        "whatsNew": "Apple Intelligence integration\nCustomizable Control Center\nRCS messaging support\nPasswords app\nSpatial Photo support",
+        "explanation": "iOS 18 is the latest major release from Apple, introducing Apple Intelligence, a personal AI system that helps you communicate and work more efficiently. The 
+  update brings significant customization options including a customizable Control Center and redesigned Photos app."
+      },
+      {
+        "title": "iOS 17",
+        "image": "https://heavenlife.github.io/Flutter-Point/dart_images/ios/ios_17.png",
+        "releaseDate": "September 2023",
+        "whatsNew": "Interactive Widgets\nLive Voicemail\nStandBy Mode\nContact Posters\nNameDrop feature",
+        "explanation": "iOS 17 brought major improvements to communication and personalization. StandBy turns your iPhone into a smart display when charging, Interactive Widgets     
+  allow direct interaction without opening apps, and Contact Posters let you customize how you appear to others."
+      },
+      {
+        "title": "iOS 16",
+        "image": "https://heavenlife.github.io/Flutter-Point/dart_images/ios/ios_16.png",
+        "releaseDate": "September 2022",
+        "whatsNew": "Lock Screen customization\nWeather app redesign\nLive Activities\nMessages edit & undo\nPasskeys support",
+        "explanation": "iOS 16 introduced the most customizable Lock Screen ever, allowing users to add widgets, change fonts, and customize the date and time. Live Activities lets  
+  you track real-time events directly from the Lock Screen."
+      },
+      {
+        "title": "iOS 15",
+        "image": "https://heavenlife.github.io/Flutter-Point/dart_images/ios/ios_15.png",
+        "releaseDate": "September 2021",
+        "whatsNew": "FaceTime spatial audio\nFocus mode\nSafari extensions\nLive Text\nWeather app overhaul",
+        "explanation": "iOS 15 introduced Focus mode to help reduce distractions, enhanced FaceTime with spatial audio and portrait mode, and added Live Text that can identify text  
+  in photos. Safari received a major redesign with tab groups and extensions."
+      },
+      {
+        "title": "iOS 14",
+        "image": "https://heavenlife.github.io/Flutter-Point/dart_images/ios/ios_14.png",
+        "releaseDate": "September 2020",
+        "whatsNew": "App Library\nWidget support on Home Screen\nPicture in Picture\nApp Clips\nSiri improvements",
+        "explanation": "iOS 14 brought widgets to the Home Screen for the first time, organized apps automatically in the App Library, and introduced App Clips for quick access to   
+  app features without full installation."
+      },
+      {
+        "title": "iOS 13",
+        "image": "https://heavenlife.github.io/Flutter-Point/dart_images/ios/ios_13.png",
+        "releaseDate": "September 2019",
+        "whatsNew": "Dark Mode\nSign in with Apple\nCamera & Photo improvements\nMaps redesign\nSwipe Keyboard",
+        "explanation": "iOS 13 introduced system-wide Dark Mode, a privacy-focused Sign in with Apple feature, and completely redesigned Maps with more detailed information. The     
+  Photos app got a major update with improved organization and editing tools."
+      },
+      {
+        "title": "iOS 12",
+        "image": "https://heavenlife.github.io/Flutter-Point/dart_images/ios/ios_12.png",
+        "releaseDate": "September 2018",
+        "whatsNew": "Screen Time\nMemoji\nGroup FaceTime\nARKit 2\nShortcuts app",
+        "explanation": "iOS 12 focused on performance improvements and introduced Screen Time to help users monitor their device usage. Memoji brought personalized animated emojis,  
+  and Shortcuts enabled automation of complex tasks."
+      },
+      {
+        "title": "iOS 11",
+        "image": "https://heavenlife.github.io/Flutter-Point/dart_images/ios/ios_11.png",
+        "releaseDate": "September 2017",
+        "whatsNew": "Control Center redesign\nApp Store redesign\nARKit debut\nFiles app\nDrag and drop support",
+        "explanation": "iOS 11 brought a redesigned Control Center with customizable toggles, a completely new App Store design, and introduced ARKit for augmented reality
+  experiences. The Files app provided a centralized file management system."
+      },
+      {
+        "title": "iOS 10",
+        "image": "https://heavenlife.github.io/Flutter-Point/dart_images/ios/ios_10.png",
+        "releaseDate": "September 2016",
+        "whatsNew": "Siri open to developers\nRedesigned Lock Screen\nMessages app enhancements\nHome app\nApple Music redesign",
+        "explanation": "iOS 10 opened Siri and other system apps to third-party developers, allowing for richer integrations. The Messages app received a major upgrade with stickers,
+   animations, and apps support."
+      },
+      {
+        "title": "iOS 9",
+        "image": "https://heavenlife.github.io/Flutter-Point/dart_images/ios/ios_9.png",
+        "releaseDate": "September 2015",
+        "whatsNew": "Proactive assistant\nLow Power Mode\nNews app\niPad multitasking\nTransit directions in Maps",
+        "explanation": "iOS 9 introduced a proactive assistant that learned from your habits, Low Power Mode to extend battery life, and the News app. iPad gained split-screen       
+  multitasking capabilities."
+      },
+      {
+        "title": "iOS 8",
+        "image": "https://heavenlife.github.io/Flutter-Point/dart_images/ios/ios_8.png",
+        "releaseDate": "September 2014",
+        "whatsNew": "Health app\nHomeKit\nExtensions support\nApple Pay\nInteractive notifications",
+        "explanation": "iOS 8 introduced Health for fitness tracking and HomeKit for smart home automation. Extensions allowed apps to share functionality, and Apple Pay brought     
+  contactless payments to iPhone."
+      },
+      {
+        "title": "iOS 7",
+        "image": "https://heavenlife.github.io/Flutter-Point/dart_images/ios/ios_7.png",
+        "releaseDate": "September 2013",
+        "whatsNew": "Complete design overhaul\nControl Center\nAirDrop\niTunes Radio\nNotification Center",
+        "explanation": "iOS 7 was the most significant design change in iOS history, moving from skeuomorphic to flat design. Control Center provided quick access to essential       
+  settings, and AirDrop enabled easy file sharing."
+      },
+      {
+        "title": "iOS 6",
+        "image": "https://heavenlife.github.io/Flutter-Point/dart_images/ios/ios_6.png",
+        "releaseDate": "September 2012",
+        "whatsNew": "Apple Maps debut\nPassbook\nSiri improvements\nFaceTime over cellular\nDo Not Disturb",
+        "explanation": "iOS 6 replaced Google Maps with Apple Maps, introduced Passbook for storing tickets and passes, and enhanced Siri with more capabilities. Do Not Disturb      
+  helped manage notifications."
+      },
+      {
+        "title": "iOS 5",
+        "image": "https://heavenlife.github.io/Flutter-Point/dart_images/ios/ios_5.png",
+        "releaseDate": "October 2011",
+        "whatsNew": "iCloud debut\nNotification Center\niMessage\nTwitter integration\nNewsstand",
+        "explanation": "iOS 5 introduced iCloud for seamless data sync, iMessage for free messaging between iOS devices, and a unified Notification Center. Newsstand organized       
+  magazine and newspaper apps."
+      },
+      {
+        "title": "iOS 4",
+        "image": "https://heavenlife.github.io/Flutter-Point/dart_images/ios/ios_4.png",
+        "releaseDate": "June 2010",
+        "whatsNew": "Multitasking support\nFolders\nFaceTime\nGame Center\nRetina Display support",
+        "explanation": "iOS 4 introduced multitasking, allowing apps to run in the background, and Folders to organize apps. FaceTime brought video calling, and Game Center provided 
+  a social gaming platform."
       }
     ]
   }
