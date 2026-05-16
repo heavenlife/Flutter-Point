@@ -104,6 +104,27 @@
         "releaseDate": "June 2010",
         "whatsNew": "Multitasking support\nFolders\nFaceTime\nGame Center\nRetina Display support",
         "explanation": "iOS 4 introduced multitasking, allowing apps to run in the background, and Folders to organize apps. FaceTime brought video calling, and Game Center provided a social gaming platform."
+      },
+      {
+        "title": "iOS 3",
+        "image": "https://heavenlife.github.io/Flutter-Point/dart_images/ios/ios_3.png",
+        "releaseDate": "June 2009",
+        "whatsNew": "MMS support\nCut, copy, paste\nLandscape keyboard\nVoice Memos\nSpotlight search",
+        "explanation": "iOS 3 added MMS, copy/paste, and Spotlight search."
+      },
+      {
+        "title": "iPhone OS 2",
+        "image": "https://heavenlife.github.io/Flutter-Point/dart_images/ios/ios_2.png",
+        "releaseDate": "July 2008",
+        "whatsNew": "App Store debut\nPush notifications\niPhone 3G support\nMicrosoft Exchange support\nNike + iPod",
+        "explanation": "iPhone OS 2 introduced the App Store."
+      },
+      {
+        "title": "iPhone OS 1",
+        "image": "https://heavenlife.github.io/Flutter-Point/dart_images/ios/ios_1.png",
+        "releaseDate": "June 2007",
+        "whatsNew": "First iPhone OS\nMulti-touch interface\nSafari browser\niPod functionality\nEmail and SMS",
+        "explanation": "iPhone OS 1 was the original operating system for the first iPhone."
       }
     ]
   }
