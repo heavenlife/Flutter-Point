@@ -1,76 +1,139 @@
- {
-    "iosVersions": [
-      {
-    "title": "iPhone OS 1",
-    "image": "",
-    "releaseDate": "June 29, 2007",
-    "whatsNew": "First Apple mobile operating system\nMulti-touch interface\nSafari mobile browser\nVisual voicemail\niPod music integration\nGoogle Maps support",
-    "explanation": "iPhone OS 1 was the very first operating system created by Apple for the original iPhone. Apple introduced a completely touch-based smartphone experience with smooth animations, pinch-to-zoom gestures, and finger navigation. Apps like Safari, Music, Photos, and Phone were deeply integrated into the system. Although there was no App Store at launch, this version completely changed the smartphone industry and laid the foundation for all future iOS versions."
-  },
-  {
-    "title": "iPhone OS 2",
-    "image": "",
-    "releaseDate": "July 11, 2008",
-    "whatsNew": "Introduction of the App Store\nSupport for third-party applications\nMicrosoft Exchange support\nImproved Maps and Mail\nScientific calculator in landscape mode",
-    "explanation": "iPhone OS 2 introduced the App Store, one of the biggest changes in mobile history. Developers could now create and distribute applications for iPhones. Apple also added Microsoft Exchange support for business users, making the iPhone more professional and productive. This update transformed the iPhone into a complete mobile ecosystem."
-  },
-  {
-    "title": "iPhone OS 3",
-    "image": "",
-    "releaseDate": "June 17, 2009",
-    "whatsNew": "Copy and paste support\nMMS messaging\nSpotlight search\nVoice memos\nLandscape keyboard\nTethering support",
-    "explanation": "iPhone OS 3 added many highly requested features including copy and paste functionality. Users could now search apps and content using Spotlight Search, send MMS messages, and use voice recording features. This update made the iPhone significantly more practical for everyday usage."
-  },
-  {
-    "title": "iOS 4",
-    "image": "",
-    "releaseDate": "June 21, 2010",
-    "whatsNew": "Multitasking support\nApp folders\nRetina display optimization\nFaceTime support\nGame Center\nImproved Mail app",
-    "explanation": "Apple renamed the operating system from iPhone OS to iOS with this version. iOS 4 introduced multitasking, allowing apps to run in the background. Users could organize apps into folders and enjoy video calls through FaceTime. Retina display optimization also improved screen sharpness and visual quality."
-  },
-  {
-    "title": "iOS 5",
-    "image": "",
-    "releaseDate": "October 12, 2011",
-    "whatsNew": "Siri voice assistant\niCloud integration\nNotification Center\niMessage\nWireless device setup\nNewsstand",
-    "explanation": "iOS 5 introduced Siri, Apple’s intelligent voice assistant capable of answering questions and performing tasks using voice commands. iCloud enabled automatic syncing between Apple devices, while Notification Center improved notification management. This update strengthened Apple’s ecosystem and cloud services."
-  },
-  {
-    "title": "iOS 6",
-    "image": "",
-    "releaseDate": "September 19, 2012",
-    "whatsNew": "Apple Maps\nPassbook support\nFacebook integration\nImproved Siri\nDo Not Disturb mode\nPanorama camera mode",
-    "explanation": "iOS 6 replaced Google Maps with Apple Maps and introduced Passbook, later renamed Apple Wallet. Siri became more powerful, and Do Not Disturb mode helped users reduce interruptions. This update focused heavily on Apple’s independent ecosystem and service integration."
-  },
-  {
-    "title": "iOS 7",
-    "image": "",
-    "releaseDate": "September 18, 2013",
-    "whatsNew": "Completely redesigned interface\nFlat design language\nControl Center\nAirDrop\nActivation Lock\nBackground app refresh",
-    "explanation": "iOS 7 brought the biggest visual redesign in Apple history. Skeuomorphic designs were replaced with a clean flat interface featuring bright colors and modern animations. Control Center provided quick settings access, while AirDrop enabled wireless file sharing between Apple devices."
-  },
-  {
-    "title": "iOS 8",
-    "image": "",
-    "releaseDate": "September 17, 2014",
-    "whatsNew": "Widgets support\nHealth app\nApple Pay\nContinuity features\nFamily Sharing\nThird-party keyboard support",
-    "explanation": "iOS 8 focused on productivity and ecosystem connectivity. Widgets could now display useful information in notifications. Apple Pay introduced secure mobile payments, while Continuity allowed seamless switching between iPhone, iPad, and Mac devices."
-  },
-  {
-    "title": "iOS 9",
-    "image": "",
-    "releaseDate": "September 16, 2015",
-    "whatsNew": "Improved performance\nLow Power Mode\nSplit-screen multitasking\nBetter Siri intelligence\nNews app\nEnhanced Notes app",
-    "explanation": "iOS 9 focused on performance optimization and battery efficiency. Low Power Mode extended battery life, while split-screen multitasking improved iPad productivity. Siri became smarter with proactive suggestions and better contextual understanding."
-  },
-  {
-    "title": "iOS 10",
-    "image": "",
-    "releaseDate": "September 13, 2016",
-    "whatsNew": "Redesigned lock screen\nRich notifications\nImproved Messages app\nHome app support\nRaise to Wake\nSiri app integration",
-    "explanation": "iOS 10 modernized the lock screen and notification system. Users could interact directly with notifications without opening apps. The Messages app gained animations and app integrations, while the Home app introduced smart home controls."
-  }
-    ]
-  }
+{
+  "iosVersions": [
+    {
+      "title": "iPhone OS 1",
+      "image": "",
+      "releaseDate": "June 29, 2007",
+      "whatsNew": "First Apple mobile operating system\nMulti-touch interface\nSafari mobile browser\nVisual voicemail\niPod music integration\nGoogle Maps support",
+      "explanation": "iPhone OS 1 was the very first operating system created by Apple for the original iPhone. Apple introduced a completely touch-based smartphone experience with smooth animations, pinch-to-zoom gestures, and finger navigation. Apps like Safari, Music, Photos, and Phone were deeply integrated into the system. Although there was no App Store at launch, this version completely changed the smartphone industry and laid the foundation for all future iOS versions."
+    },
+    {
+      "title": "iPhone OS 2",
+      "image": "",
+      "releaseDate": "July 11, 2008",
+      "whatsNew": "Introduction of the App Store\nSupport for third-party applications\nMicrosoft Exchange support\nImproved Maps and Mail\nScientific calculator in landscape mode",
+      "explanation": "iPhone OS 2 introduced the App Store, one of the biggest changes in mobile history. Developers could now create and distribute applications for iPhones. Apple also added Microsoft Exchange support for business users, making the iPhone more professional and productive. This update transformed the iPhone into a complete mobile ecosystem."
+    },
+    {
+      "title": "iPhone OS 3",
+      "image": "",
+      "releaseDate": "June 17, 2009",
+      "whatsNew": "Copy and paste support\nMMS messaging\nSpotlight search\nVoice memos\nLandscape keyboard\nTethering support",
+      "explanation": "iPhone OS 3 added many highly requested features including copy and paste functionality. Users could now search apps and content using Spotlight Search, send MMS messages, and use voice recording features. This update made the iPhone significantly more practical for everyday usage."
+    },
+    {
+      "title": "iOS 4",
+      "image": "",
+      "releaseDate": "June 21, 2010",
+      "whatsNew": "Multitasking support\nApp folders\nRetina display optimization\nFaceTime support\nGame Center\nImproved Mail app",
+      "explanation": "Apple renamed the operating system from iPhone OS to iOS with this version. iOS 4 introduced multitasking, allowing apps to run in the background. Users could organize apps into folders and enjoy video calls through FaceTime. Retina display optimization also improved screen sharpness and visual quality."
+    },
+    {
+      "title": "iOS 5",
+      "image": "",
+      "releaseDate": "October 12, 2011",
+      "whatsNew": "Siri voice assistant\niCloud integration\nNotification Center\niMessage\nWireless device setup\nNewsstand",
+      "explanation": "iOS 5 introduced Siri, Apple’s intelligent voice assistant capable of answering questions and performing tasks using voice commands. iCloud enabled automatic syncing between Apple devices, while Notification Center improved notification management. This update strengthened Apple’s ecosystem and cloud services."
+    },
+    {
+      "title": "iOS 6",
+      "image": "",
+      "releaseDate": "September 19, 2012",
+      "whatsNew": "Apple Maps\nPassbook support\nFacebook integration\nImproved Siri\nDo Not Disturb mode\nPanorama camera mode",
+      "explanation": "iOS 6 replaced Google Maps with Apple Maps and introduced Passbook, later renamed Apple Wallet. Siri became more powerful, and Do Not Disturb mode helped users reduce interruptions. This update focused heavily on Apple’s independent ecosystem and service integration."
+    },
+    {
+      "title": "iOS 7",
+      "image": "",
+      "releaseDate": "September 18, 2013",
+      "whatsNew": "Completely redesigned interface\nFlat design language\nControl Center\nAirDrop\nActivation Lock\nBackground app refresh",
+      "explanation": "iOS 7 brought the biggest visual redesign in Apple history. Skeuomorphic designs were replaced with a clean flat interface featuring bright colors and modern animations. Control Center provided quick settings access, while AirDrop enabled wireless file sharing between Apple devices."
+    },
+    {
+      "title": "iOS 8",
+      "image": "",
+      "releaseDate": "September 17, 2014",
+      "whatsNew": "Widgets support\nHealth app\nApple Pay\nContinuity features\nFamily Sharing\nThird-party keyboard support",
+      "explanation": "iOS 8 focused on productivity and ecosystem connectivity. Widgets could now display useful information in notifications. Apple Pay introduced secure mobile payments, while Continuity allowed seamless switching between iPhone, iPad, and Mac devices."
+    },
+    {
+      "title": "iOS 9",
+      "image": "",
+      "releaseDate": "September 16, 2015",
+      "whatsNew": "Improved performance\nLow Power Mode\nSplit-screen multitasking\nBetter Siri intelligence\nNews app\nEnhanced Notes app",
+      "explanation": "iOS 9 focused on performance optimization and battery efficiency. Low Power Mode extended battery life, while split-screen multitasking improved iPad productivity. Siri became smarter with proactive suggestions and better contextual understanding."
+    },
+    {
+      "title": "iOS 10",
+      "image": "",
+      "releaseDate": "September 13, 2016",
+      "whatsNew": "Redesigned lock screen\nRich notifications\nImproved Messages app\nHome app support\nRaise to Wake\nSiri app integration",
+      "explanation": "iOS 10 modernized the lock screen and notification system. Users could interact directly with notifications without opening apps. The Messages app gained animations and app integrations, while the Home app introduced smart home controls."
+    },
+    {
+      "title": "iOS 11",
+      "image": "",
+      "releaseDate": "September 19, 2017",
+      "whatsNew": "Files app\nARKit for augmented reality\nRedesigned App Store\nImproved Control Center\nScreen recording\nDrag and drop on iPad",
+      "explanation": "iOS 11 introduced ARKit, allowing developers to create augmented reality experiences. This technology enabled advanced gaming and virtual object placement. The new Files app brought desktop-style file management to iOS, while screen recording became a built-in feature. Apple also redesigned the App Store and improved iPad productivity tools."
+    },
+    {
+      "title": "iOS 12",
+      "image": "",
+      "releaseDate": "September 17, 2018",
+      "whatsNew": "Faster performance\nScreen Time\nGrouped notifications\nSiri Shortcuts\nMemoji\nImproved FaceTime",
+      "explanation": "iOS 12 focused on speed and performance, especially for older devices. Apple improved app launch speed and smoother animations. Screen Time helped users monitor device usage and manage digital habits. Siri Shortcuts introduced task automation, while Memoji allowed users to create personalized animated avatars."
+    },
+    {
+      "title": "iOS 13",
+      "image": "",
+      "releaseDate": "September 19, 2019",
+      "whatsNew": "Dark Mode\nFaster Face ID\nRedesigned Photos app\nSign in with Apple\nImproved privacy controls\nNew Reminders app",
+      "explanation": "iOS 13 introduced system-wide Dark Mode, one of the most requested features by users. Apple improved privacy with Sign in with Apple, reducing third-party data sharing. The Photos app received better organization and editing tools. This version also separated iPad software into its own platform called iPadOS."
+    },
+    {
+      "title": "iOS 14",
+      "image": "",
+      "releaseDate": "September 16, 2020",
+      "whatsNew": "Home screen widgets\nApp Library\nPicture in Picture mode\nCompact call interface\nPrivacy indicators\nApp Clips",
+      "explanation": "iOS 14 transformed home screen customization by introducing widgets that could be placed among apps. The App Library automatically organized applications into categories. Privacy indicators informed users when apps accessed the camera or microphone, while Picture in Picture improved multitasking."
+    },
+    {
+      "title": "iOS 15",
+      "image": "",
+      "releaseDate": "September 20, 2021",
+      "whatsNew": "Focus modes\nSharePlay in FaceTime\nLive Text\nRedesigned Safari\nNotification summaries\nImproved Maps",
+      "explanation": "iOS 15 introduced Focus modes to reduce distractions by allowing users to create custom profiles for work, sleep, or personal time. Live Text used AI to recognize text inside images, while SharePlay enabled synchronized media sharing during FaceTime calls. Apple also improved Maps, Safari, and notifications."
+    },
+    {
+      "title": "iOS 16",
+      "image": "",
+      "releaseDate": "September 12, 2022",
+      "whatsNew": "Lock screen customization\nLive Activities\nImproved Messages editing\nPasskeys security\nEnhanced Focus modes\nBattery percentage icon",
+      "explanation": "iOS 16 introduced major lock screen customization with widgets, wallpapers, and font styles. Users could edit or unsend messages in iMessage. Live Activities displayed real-time updates such as sports scores and delivery tracking. Passkeys improved security by replacing traditional passwords with safer authentication."
+    },
+    {
+      "title": "iOS 17",
+      "image": "",
+      "releaseDate": "September 18, 2023",
+      "whatsNew": "StandBy mode\nInteractive widgets\nNameDrop sharing\nJournal app\nContact Posters\nImproved autocorrect",
+      "explanation": "iOS 17 focused on communication and personalization. Contact Posters allowed users to customize their calling appearance. NameDrop simplified contact sharing between iPhones, while StandBy mode transformed the iPhone into a smart display during charging. Interactive widgets enabled direct actions without opening apps."
+    },
+    {
+      "title": "iOS 18",
+      "image": "",
+      "releaseDate": "September 16, 2024",
+      "whatsNew": "Apple Intelligence AI features\nSmarter Siri improvements\nEnhanced customization\nAdvanced writing tools\nBetter privacy controls\nImproved Photos organization",
+      "explanation": "iOS 18 introduced Apple Intelligence, Apple’s AI-powered platform integrated deeply into the operating system. AI-based writing assistance, smarter Siri responses, and advanced notification handling improved productivity. Users also gained deeper customization and enhanced privacy features."
+    },
+    {
+      "title": "iOS 26",
+      "image": "",
+      "releaseDate": "September 15, 2025",
+      "whatsNew": "Advanced AI ecosystem integration\nImproved system intelligence\nBetter cross-device continuity\nEnhanced performance optimization\nSmarter automation features",
+      "explanation": "iOS 26 represents Apple’s newest generation of mobile operating systems focused heavily on artificial intelligence and automation. The system improves Siri, cross-device continuity, privacy protections, and ecosystem intelligence while delivering smoother and more personalized experiences."
+    }
+  ]
+}
 
 
