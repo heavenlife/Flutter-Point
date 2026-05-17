@@ -61,7 +61,7 @@
       "image": "https://heavenlife.github.io/Flutter-Point/dart_images/ios-9.webp",
       "releaseDate": "September 16, 2015",
       "whatsNew": "Improved performance\nLow Power Mode\nSplit-screen multitasking\nBetter Siri intelligence\nNews app\nEnhanced Notes app",
-      "explanation": "• iOS 9 focused on optimization and stability instead of large visual changes. Apple improved battery efficiency through Low Power Mode.\n• The update added advanced multitasking capabilities for iPads, allowing users to run multiple apps simultaneously.\n• Siri became smarter with proactive suggestions. Notes gained drawing and checklist features.\n• This version was known for improving performance on older devices."
+      "explanation": "• iOS 9 focused on optimisation and stability instead of large visual changes. Apple improved battery efficiency through Low Power Mode.\n• The update added advanced multitasking capabilities for iPads, allowing users to run multiple apps simultaneously.\n• Siri became smarter with proactive suggestions. Notes gained drawing and checklist features.\n• This version was known for improving performance on older devices."
     },
     {
       "title": "iOS 10\nLock Screen Mode makeover",
@@ -96,7 +96,7 @@
       "image": "https://heavenlife.github.io/Flutter-Point/dart_images/ios-14.webp",
       "releaseDate": "September 16, 2020",
       "whatsNew": "Home screen widgets\nApp Library\nPicture in Picture mode\nCompact call interface\nPrivacy indicators\nApp Clips",
-      "explanation": "• iOS 14 changed how users customized their home screens. Widgets could now be placed directly among apps.\n• The App Library automatically organized applications into categories. Privacy indicators informed users when apps accessed the camera or microphone.\n• Picture in Picture allowed videos to continue playing while using other apps.\n• This version improved multitasking and customization."
+      "explanation": "• iOS 14 changed how users customised their home screens. Widgets could now be placed directly among apps.\n• The App Library automatically organized applications into categories. Privacy indicators informed users when apps accessed the camera or microphone.\n• Picture in Picture allowed videos to continue playing while using other apps.\n• This version improved multitasking and customization."
     },
     {
       "title": "iOS 15\nSpatial Audio",
@@ -110,14 +110,14 @@
       "image": "https://heavenlife.github.io/Flutter-Point/dart_images/ios-16.webp",
       "releaseDate": "September 12, 2022",
       "whatsNew": "Lock screen customization\nLive Activities\nImproved Messages editing\nPasskeys security\nEnhanced Focus modes\nBattery percentage icon",
-      "explanation": "• iOS 16 gave users major lock screen customization options including widgets, wallpapers, and font styles.\n• Users could edit or unsend messages in iMessage. Live Activities displayed real-time updates such as sports scores and delivery tracking.\n• Security improvements included Passkeys, designed to replace passwords with safer authentication."
+      "explanation": "• iOS 16 gave users major lock screen customisation options, including widgets, wallpapers, and font styles.\n• Users could edit or unsend messages in iMessage. Live Activities displayed real-time updates such as sports scores and delivery tracking.\n• Security improvements included Passkeys, designed to replace passwords with safer authentication."
     },
     {
       "title": "iOS 17\nNameDrop",
       "image": "https://heavenlife.github.io/Flutter-Point/dart_images/ios-17.webp",
       "releaseDate": "September 18, 2023",
       "whatsNew": "StandBy mode\nInteractive widgets\nNameDrop sharing\nJournal app\nContact Posters\nImproved autocorrect",
-      "explanation": "• iOS 17 focused on communication and personalization. Contact Posters allowed users to customize how they appear during calls.\n• NameDrop simplified contact sharing between iPhones. StandBy mode transformed the iPhone into a smart display while charging.\n• Interactive widgets allowed direct actions without opening apps.\n• This version improved convenience and social interaction."
+      "explanation": "• iOS 17 focused on communication and personalisation. Contact Posters allowed users to customise how they appear during calls.\n• NameDrop simplified contact sharing between iPhones. StandBy mode transformed the iPhone into a smart display while charging.\n• Interactive widgets allowed direct actions without opening apps.\n• This version improved convenience and social interaction."
     },
     {
       "title": "iOS 18\nApple Intelligence",
