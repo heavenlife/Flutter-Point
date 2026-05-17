@@ -1,139 +1,137 @@
 {
   "iosVersions": [
     {
-      "title": "iPhone OS 1",
-      "image": "",
+      "title": "iOS 1\nMultitouch gestures",
+      "image": "https://heavenlife.github.io/Flutter-Point/dart_images/ios-1.webp",
       "releaseDate": "June 29, 2007",
       "whatsNew": "First Apple mobile operating system\nMulti-touch interface\nSafari mobile browser\nVisual voicemail\niPod music integration\nGoogle Maps support",
-      "explanation": "iPhone OS 1 was the very first operating system created by Apple for the original iPhone. Apple introduced a completely touch-based smartphone experience with smooth animations, pinch-to-zoom gestures, and finger navigation. Apps like Safari, Music, Photos, and Phone were deeply integrated into the system. Although there was no App Store at launch, this version completely changed the smartphone industry and laid the foundation for all future iOS versions."
+      "explanation": "• iPhone OS 1 was the very first operating system created by Apple for the original iPhone. Before this release, smartphones mostly used physical keyboards and stylus-based navigation. Apple completely changed the mobile industry by introducing a fully touch-based smartphone experience.\n• The operating system introduced smooth animations, pinch-to-zoom gestures, and finger-based navigation that felt modern and intuitive. Applications such as Phone, Safari, Music, and Photos were deeply integrated into the system.\n• Although there was no App Store at this time, users could still enjoy a revolutionary internet browsing experience through Safari. This version laid the foundation for all future iPhone and iPad operating systems."
     },
     {
-      "title": "iPhone OS 2",
-      "image": "",
+      "title": "iOS 2\nApp Store",
+      "image": "https://heavenlife.github.io/Flutter-Point/dart_images/ios-2.webp",
       "releaseDate": "July 11, 2008",
       "whatsNew": "Introduction of the App Store\nSupport for third-party applications\nMicrosoft Exchange support\nImproved Maps and Mail\nScientific calculator in landscape mode",
-      "explanation": "iPhone OS 2 introduced the App Store, one of the biggest changes in mobile history. Developers could now create and distribute applications for iPhones. Apple also added Microsoft Exchange support for business users, making the iPhone more professional and productive. This update transformed the iPhone into a complete mobile ecosystem."
+      "explanation": "• iPhone OS 2 was one of the most important updates in Apple history because it introduced the App Store. Before this update, users could not officially install third-party apps.\n• The App Store created a completely new mobile application ecosystem. Developers from around the world could now build apps and games for iPhones. This update also made the iPhone more useful for business users by adding Microsoft Exchange support.\n• The release of the App Store changed smartphones forever and helped Apple become a leader in mobile software."
     },
     {
-      "title": "iPhone OS 3",
-      "image": "",
+      "title": "iOS 3\nSpotlight search",
+      "image": "https://heavenlife.github.io/Flutter-Point/dart_images/ios-3.webp",
       "releaseDate": "June 17, 2009",
       "whatsNew": "Copy and paste support\nMMS messaging\nSpotlight search\nVoice memos\nLandscape keyboard\nTethering support",
-      "explanation": "iPhone OS 3 added many highly requested features including copy and paste functionality. Users could now search apps and content using Spotlight Search, send MMS messages, and use voice recording features. This update made the iPhone significantly more practical for everyday usage."
+      "explanation": "• iPhone OS 3 added many features users had been requesting for years. The biggest improvement was copy and paste, which allowed users to select text and move it between applications.\n• Spotlight Search helped users quickly find apps, contacts, and messages. MMS support enabled picture messaging. Apple also improved keyboard usability and introduced voice recording.\n• This version made the iPhone feel much more complete and practical for daily use."
     },
     {
-      "title": "iOS 4",
-      "image": "",
+      "title": "iOS 4\nFaceTime",
+      "image": "https://heavenlife.github.io/Flutter-Point/dart_images/ios-4.webp",
       "releaseDate": "June 21, 2010",
       "whatsNew": "Multitasking support\nApp folders\nRetina display optimization\nFaceTime support\nGame Center\nImproved Mail app",
-      "explanation": "Apple renamed the operating system from iPhone OS to iOS with this version. iOS 4 introduced multitasking, allowing apps to run in the background. Users could organize apps into folders and enjoy video calls through FaceTime. Retina display optimization also improved screen sharpness and visual quality."
+      "explanation": "• Apple renamed the operating system from “iPhone OS” to “iOS” with this release. iOS 4 introduced multitasking, allowing apps to run in the background.\n• Users could finally organize apps into folders, reducing home screen clutter. FaceTime introduced Apple’s video calling service, while Game Center provided social gaming features.\n• The Retina display made text and images look much sharper. This update significantly improved the overall user experience."
     },
     {
-      "title": "iOS 5",
-      "image": "",
+      "title": "iOS 5\niCloud & iMessage",
+      "image": "https://heavenlife.github.io/Flutter-Point/dart_images/ios-5.webp",
       "releaseDate": "October 12, 2011",
       "whatsNew": "Siri voice assistant\niCloud integration\nNotification Center\niMessage\nWireless device setup\nNewsstand",
-      "explanation": "iOS 5 introduced Siri, Apple’s intelligent voice assistant capable of answering questions and performing tasks using voice commands. iCloud enabled automatic syncing between Apple devices, while Notification Center improved notification management. This update strengthened Apple’s ecosystem and cloud services."
+      "explanation": "• iOS 5 introduced Siri, Apple’s intelligent voice assistant. Users could ask questions, send messages, and set reminders using voice commands.\n• iCloud became a major part of Apple’s ecosystem, allowing automatic syncing of photos, contacts, and documents across devices.\n• Notification Center improved notification management by grouping alerts together. iMessage enabled free messaging between Apple devices.\n• This update strengthened Apple’s ecosystem and cloud-based services."
     },
     {
-      "title": "iOS 6",
-      "image": "",
+      "title": "iOS 6\nApple Maps",
+      "image": "https://heavenlife.github.io/Flutter-Point/dart_images/ios-6.webp",
       "releaseDate": "September 19, 2012",
       "whatsNew": "Apple Maps\nPassbook support\nFacebook integration\nImproved Siri\nDo Not Disturb mode\nPanorama camera mode",
-      "explanation": "iOS 6 replaced Google Maps with Apple Maps and introduced Passbook, later renamed Apple Wallet. Siri became more powerful, and Do Not Disturb mode helped users reduce interruptions. This update focused heavily on Apple’s independent ecosystem and service integration."
+      "explanation": "• iOS 6 replaced Google Maps with Apple Maps. Although the launch faced criticism due to inaccuracies, it marked Apple’s effort to build independent services.\n• Passbook allowed users to store tickets, coupons, and boarding passes digitally. Siri gained more capabilities, and Do Not Disturb helped users manage interruptions.\n• This version focused heavily on ecosystem independence and service integration."
     },
     {
-      "title": "iOS 7",
-      "image": "",
+      "title": "iOS 7\nTouch ID",
+      "image": "https://heavenlife.github.io/Flutter-Point/dart_images/ios-7.webp",
       "releaseDate": "September 18, 2013",
       "whatsNew": "Completely redesigned interface\nFlat design language\nControl Center\nAirDrop\nActivation Lock\nBackground app refresh",
-      "explanation": "iOS 7 brought the biggest visual redesign in Apple history. Skeuomorphic designs were replaced with a clean flat interface featuring bright colors and modern animations. Control Center provided quick settings access, while AirDrop enabled wireless file sharing between Apple devices."
+      "explanation": "• iOS 7 introduced the biggest visual redesign in Apple history. Skeuomorphic textures and realistic designs were replaced with a clean, flat, colorful interface.\n• Control Center gave users quick access to settings like Wi-Fi and brightness. AirDrop allowed wireless file sharing between Apple devices.\n• Activation Lock improved security by linking devices to Apple IDs. This version modernized the look and feel of iOS."
     },
     {
-      "title": "iOS 8",
-      "image": "",
+      "title": "iOS 8\nApple Pay",
+      "image": "https://heavenlife.github.io/Flutter-Point/dart_images/ios-8.webp",
       "releaseDate": "September 17, 2014",
       "whatsNew": "Widgets support\nHealth app\nApple Pay\nContinuity features\nFamily Sharing\nThird-party keyboard support",
-      "explanation": "iOS 8 focused on productivity and ecosystem connectivity. Widgets could now display useful information in notifications. Apple Pay introduced secure mobile payments, while Continuity allowed seamless switching between iPhone, iPad, and Mac devices."
+      "explanation": "• iOS 8 focused on productivity and ecosystem connectivity. Widgets allowed apps to display useful information in the notification area.\n• Apple Pay introduced secure mobile payments. Continuity features enabled smooth transitions between iPhone, iPad, and Mac.\n• Third-party keyboard support allowed users to install custom keyboards for the first time.\n• This update made iOS more flexible and connected."
     },
     {
-      "title": "iOS 9",
-      "image": "",
+      "title": "iOS 9\nLow Power",
+      "image": "https://heavenlife.github.io/Flutter-Point/dart_images/ios-9.webp",
       "releaseDate": "September 16, 2015",
       "whatsNew": "Improved performance\nLow Power Mode\nSplit-screen multitasking\nBetter Siri intelligence\nNews app\nEnhanced Notes app",
-      "explanation": "iOS 9 focused on performance optimization and battery efficiency. Low Power Mode extended battery life, while split-screen multitasking improved iPad productivity. Siri became smarter with proactive suggestions and better contextual understanding."
+      "explanation": "• iOS 9 focused on optimization and stability instead of large visual changes. Apple improved battery efficiency through Low Power Mode.\n• The update added advanced multitasking capabilities for iPads, allowing users to run multiple apps simultaneously.\n• Siri became smarter with proactive suggestions. Notes gained drawing and checklist features.\n• This version was known for improving performance on older devices."
     },
     {
-      "title": "iOS 10",
-      "image": "",
+      "title": "iOS 10\nLock Screen Mode makeover",
+      "image": "https://heavenlife.github.io/Flutter-Point/dart_images/ios-10.webp",
       "releaseDate": "September 13, 2016",
       "whatsNew": "Redesigned lock screen\nRich notifications\nImproved Messages app\nHome app support\nRaise to Wake\nSiri app integration",
-      "explanation": "iOS 10 modernized the lock screen and notification system. Users could interact directly with notifications without opening apps. The Messages app gained animations and app integrations, while the Home app introduced smart home controls."
+      "explanation": "• iOS 10 modernized notifications and the lock screen. Users could interact with notifications directly without opening apps.\n• The Messages app gained stickers, animations, and app integrations. Apple also introduced the Home app for controlling smart home devices.\n• This version improved user interaction and smart ecosystem integration."
     },
     {
-      "title": "iOS 11",
-      "image": "",
+      "title": "iOS 11\nDo Not Disturb While Driving",
+      "image": "https://heavenlife.github.io/Flutter-Point/dart_images/ios-11.webp",
       "releaseDate": "September 19, 2017",
       "whatsNew": "Files app\nARKit for augmented reality\nRedesigned App Store\nImproved Control Center\nScreen recording\nDrag and drop on iPad",
-      "explanation": "iOS 11 introduced ARKit, allowing developers to create augmented reality experiences. This technology enabled advanced gaming and virtual object placement. The new Files app brought desktop-style file management to iOS, while screen recording became a built-in feature. Apple also redesigned the App Store and improved iPad productivity tools."
+      "explanation": "• iOS 11 introduced ARKit, allowing developers to create augmented reality experiences. This technology enabled advanced gaming and virtual object placement.\n• The new Files app brought desktop-style file management to iOS. Screen recording became a built-in feature.\n• Apple also redesigned the App Store and improved iPad productivity tools."
     },
     {
-      "title": "iOS 12",
-      "image": "",
+      "title": "iOS 12\nScreen Time",
+      "image": "https://heavenlife.github.io/Flutter-Point/dart_images/ios-12.webp",
       "releaseDate": "September 17, 2018",
       "whatsNew": "Faster performance\nScreen Time\nGrouped notifications\nSiri Shortcuts\nMemoji\nImproved FaceTime",
-      "explanation": "iOS 12 focused on speed and performance, especially for older devices. Apple improved app launch speed and smoother animations. Screen Time helped users monitor device usage and manage digital habits. Siri Shortcuts introduced task automation, while Memoji allowed users to create personalized animated avatars."
+      "explanation": "• iOS 12 focused on speed and performance, especially for older devices. Apple claimed apps launched faster and animations became smoother.\n• Screen Time helped users monitor device usage and manage digital habits. Siri Shortcuts allowed automation of tasks.\n• Memoji added customizable animated avatars for users.\n• This version was praised for reliability and optimization."
     },
     {
-      "title": "iOS 13",
-      "image": "",
+      "title": "iOS 13\nSign in with Apple",
+      "image": "https://heavenlife.github.io/Flutter-Point/dart_images/ios-13.webp",
       "releaseDate": "September 19, 2019",
       "whatsNew": "Dark Mode\nFaster Face ID\nRedesigned Photos app\nSign in with Apple\nImproved privacy controls\nNew Reminders app",
-      "explanation": "iOS 13 introduced system-wide Dark Mode, one of the most requested features by users. Apple improved privacy with Sign in with Apple, reducing third-party data sharing. The Photos app received better organization and editing tools. This version also separated iPad software into its own platform called iPadOS."
+      "explanation": "• iOS 13 introduced system-wide Dark Mode, one of the most requested features by users.\n• Apple improved privacy by introducing “Sign in with Apple,” which reduced data sharing with third-party apps.\n• The Photos app received better organization and editing tools.\n• This version also separated iPad software into its own platform called iPadOS."
     },
     {
-      "title": "iOS 14",
-      "image": "",
+      "title": "iOS 14\nApp Library",
+      "image": "https://heavenlife.github.io/Flutter-Point/dart_images/ios-14.webp",
       "releaseDate": "September 16, 2020",
       "whatsNew": "Home screen widgets\nApp Library\nPicture in Picture mode\nCompact call interface\nPrivacy indicators\nApp Clips",
-      "explanation": "iOS 14 transformed home screen customization by introducing widgets that could be placed among apps. The App Library automatically organized applications into categories. Privacy indicators informed users when apps accessed the camera or microphone, while Picture in Picture improved multitasking."
+      "explanation": "• iOS 14 changed how users customized their home screens. Widgets could now be placed directly among apps.\n• The App Library automatically organized applications into categories. Privacy indicators informed users when apps accessed the camera or microphone.\n• Picture in Picture allowed videos to continue playing while using other apps.\n• This version improved multitasking and customization."
     },
     {
-      "title": "iOS 15",
-      "image": "",
+      "title": "iOS 15\nSpatial Audio",
+      "image": "https://heavenlife.github.io/Flutter-Point/dart_images/ios-15.webp",
       "releaseDate": "September 20, 2021",
       "whatsNew": "Focus modes\nSharePlay in FaceTime\nLive Text\nRedesigned Safari\nNotification summaries\nImproved Maps",
-      "explanation": "iOS 15 introduced Focus modes to reduce distractions by allowing users to create custom profiles for work, sleep, or personal time. Live Text used AI to recognize text inside images, while SharePlay enabled synchronized media sharing during FaceTime calls. Apple also improved Maps, Safari, and notifications."
+      "explanation": "• iOS 15 introduced Focus modes to help users reduce distractions. Different profiles could be created for work, sleep, or personal time.\n• Live Text used AI to recognize text inside images. SharePlay enabled synchronized media sharing during FaceTime calls.\n• Apple also improved navigation, notifications, and productivity features."
     },
     {
-      "title": "iOS 16",
-      "image": "",
+      "title": "iOS 16\nCustomizable Lock Screen",
+      "image": "https://heavenlife.github.io/Flutter-Point/dart_images/ios-16.webp",
       "releaseDate": "September 12, 2022",
       "whatsNew": "Lock screen customization\nLive Activities\nImproved Messages editing\nPasskeys security\nEnhanced Focus modes\nBattery percentage icon",
-      "explanation": "iOS 16 introduced major lock screen customization with widgets, wallpapers, and font styles. Users could edit or unsend messages in iMessage. Live Activities displayed real-time updates such as sports scores and delivery tracking. Passkeys improved security by replacing traditional passwords with safer authentication."
+      "explanation": "• iOS 16 gave users major lock screen customization options including widgets, wallpapers, and font styles.\n• Users could edit or unsend messages in iMessage. Live Activities displayed real-time updates such as sports scores and delivery tracking.\n• Security improvements included Passkeys, designed to replace passwords with safer authentication."
     },
     {
-      "title": "iOS 17",
-      "image": "",
+      "title": "iOS 17\nNameDrop",
+      "image": "https://heavenlife.github.io/Flutter-Point/dart_images/ios-17.webp",
       "releaseDate": "September 18, 2023",
       "whatsNew": "StandBy mode\nInteractive widgets\nNameDrop sharing\nJournal app\nContact Posters\nImproved autocorrect",
-      "explanation": "iOS 17 focused on communication and personalization. Contact Posters allowed users to customize their calling appearance. NameDrop simplified contact sharing between iPhones, while StandBy mode transformed the iPhone into a smart display during charging. Interactive widgets enabled direct actions without opening apps."
+      "explanation": "• iOS 17 focused on communication and personalization. Contact Posters allowed users to customize how they appear during calls.\n• NameDrop simplified contact sharing between iPhones. StandBy mode transformed the iPhone into a smart display while charging.\n• Interactive widgets allowed direct actions without opening apps.\n• This version improved convenience and social interaction."
     },
     {
-      "title": "iOS 18",
-      "image": "",
+      "title": "iOS 18\nApple Intelligence",
+      "image": "https://heavenlife.github.io/Flutter-Point/dart_images/ios-18.webp",
       "releaseDate": "September 16, 2024",
       "whatsNew": "Apple Intelligence AI features\nSmarter Siri improvements\nEnhanced customization\nAdvanced writing tools\nBetter privacy controls\nImproved Photos organization",
-      "explanation": "iOS 18 introduced Apple Intelligence, Apple’s AI-powered platform integrated deeply into the operating system. AI-based writing assistance, smarter Siri responses, and advanced notification handling improved productivity. Users also gained deeper customization and enhanced privacy features."
+      "explanation": "• iOS 18 introduced Apple Intelligence, Apple’s major artificial intelligence platform integrated into the operating system.\n• AI-powered writing assistance, smarter notifications, and contextual Siri responses improved productivity.\n• Users gained deeper customization options for app layouts and controls.\n• This version marked Apple’s transition into AI-focused mobile experiences."
     },
     {
-      "title": "iOS 26",
-      "image": "",
+      "title": "iOS 26\nLiquid\nGlass",
+      "image": "https://heavenlife.github.io/Flutter-Point/dart_images/ios-26.webp",
       "releaseDate": "September 15, 2025",
       "whatsNew": "Advanced AI ecosystem integration\nImproved system intelligence\nBetter cross-device continuity\nEnhanced performance optimization\nSmarter automation features",
-      "explanation": "iOS 26 represents Apple’s newest generation of mobile operating systems focused heavily on artificial intelligence and automation. The system improves Siri, cross-device continuity, privacy protections, and ecosystem intelligence while delivering smoother and more personalized experiences."
+      "explanation": "• iOS 26 represents the newest generation of Apple’s mobile operating system. The platform focuses heavily on artificial intelligence, automation, and seamless connectivity between Apple devices.\n• Apple continues improving Siri, system intelligence, privacy protections, and ecosystem integration.\n• The operating system aims to create more personalized and efficient experiences while maintaining Apple’s focus on security and smooth performance."
     }
   ]
 }
-
-
