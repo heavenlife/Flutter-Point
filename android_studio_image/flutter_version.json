@@ -1,0 +1,5722 @@
+[
+  {
+    "id": 1,
+    "title": "Android Studio Quail 4 | 2026.1.4 Canary 2",
+    "create_date": "July 23, 2026",
+    "description": [
+      "Introduces the second Canary release of Android Studio Quail 4 (2026.1.4).",
+      "Includes the latest IDE improvements and experimental features for early testing.",
+      "Improves code completion, navigation, and overall editor responsiveness.",
+      "Enhances Gradle synchronization and project indexing performance.",
+      "Updates Android Emulator compatibility and device management tools.",
+      "Provides bug fixes for Layout Inspector, Logcat, and Profiler.",
+      "Improves Jetpack Compose development experience and preview stability.",
+      "Contains the latest Android SDK tools and platform support.",
+      "Recommended only for developers who want to test upcoming Android Studio features.",
+      "Not recommended for production development due to experimental changes."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-quail4-canary2-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-quail4-canary2-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-quail4-canary2-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail4-canary2-windows.exe",
+        "size": "1.5 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-quail4-canary2-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail4-canary2-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_1"
+  },
+  {
+    "id": 2,
+    "title": "Android Studio Quail 2 | 2026.1.2 Patch 1",
+    "create_date": "July 23, 2026",
+    "description": [
+      "First patch release for Android Studio Quail 2.",
+      "Fixes stability issues reported after the stable release.",
+      "Improves Gradle build reliability.",
+      "Resolves IDE crashes and memory-related problems.",
+      "Enhances emulator compatibility.",
+      "Improves Kotlin and Java code analysis.",
+      "Updates bundled SDK tools.",
+      "Includes security and performance improvements.",
+      "Recommended for all Quail 2 users.",
+      "Suitable for production development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-quail2-patch1-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-quail2-patch1-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-quail2-patch1-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail2-patch1-windows.exe",
+        "size": "1.5 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-quail2-patch1-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail2-patch1-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_2"
+  },
+  {
+    "id": 3,
+    "title": "Android Studio Quail 3 | 2026.1.3 RC 2",
+    "create_date": "July 20, 2026",
+    "description": [
+      "Second Release Candidate of Android Studio Quail 3.",
+      "Focuses on release stability before the final version.",
+      "Fixes issues discovered in RC 1.",
+      "Improves Gradle synchronization performance.",
+      "Enhances Compose tooling reliability.",
+      "Updates Android Emulator components.",
+      "Improves editor performance.",
+      "Includes SDK Manager enhancements.",
+      "Recommended for developers validating upcoming releases.",
+      "Expected to be close to the final stable version."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-quail3-rc2-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-quail3-rc2-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-quail3-rc2-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail3-rc2-windows.exe",
+        "size": "1.5 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-quail3-rc2-linux.tar.gz",
+        "size": "1.6 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail3-rc2-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_3"
+  },
+  {
+    "id": 4,
+    "title": "Android Studio Quail 4 | 2026.1.4 Canary 1",
+    "create_date": "July 16, 2026",
+    "description": [
+      "First Canary release of Android Studio Quail 4.",
+      "Introduces new experimental development features.",
+      "Updates IDE interface and developer tools.",
+      "Improves code completion and inspections.",
+      "Enhances Gradle integration.",
+      "Includes emulator performance improvements.",
+      "Adds support for newer Android SDK components.",
+      "Fixes early IDE bugs.",
+      "Intended for preview testing.",
+      "Not recommended for production projects."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-quail4-canary1-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-quail4-canary1-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-quail4-canary1-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail4-canary1-windows.exe",
+        "size": "1.5 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-quail4-canary1-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail4-canary1-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_4"
+  },
+  {
+    "id": 5,
+    "title": "Android Studio Quail 3 | 2026.1.3 RC 1",
+    "create_date": "July 14, 2026",
+    "description": [
+      "Official stable release of Android Studio Quail 2.",
+      "Provides a reliable development environment.",
+      "Includes performance optimizations.",
+      "Improves Gradle build speed.",
+      "Enhances Android Emulator stability.",
+      "Updates Android SDK tools.",
+      "Improves Jetpack Compose development.",
+      "Fixes known IDE bugs.",
+      "Recommended for production app development.",
+      "Long-term stable release."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-quail3-rc1-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-quail3-rc1-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-quail3-rc1-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail3-rc1-windows.exe",
+        "size": "1.5 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-quail3-rc1-linux.tar.gz",
+        "size": "1.6 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail3-rc1-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_3"
+  },
+  {
+    "id": 6,
+    "title": "Android Studio Quail 2 | 2026.1.2",
+    "create_date": "July 14, 2026",
+    "description": [
+      "Official stable release of Android Studio Quail 2.",
+      "Provides a reliable development environment.",
+      "Includes performance optimizations.",
+      "Improves Gradle build speed.",
+      "Enhances Android Emulator stability.",
+      "Updates Android SDK tools.",
+      "Improves Jetpack Compose development.",
+      "Fixes known IDE bugs.",
+      "Recommended for production app development.",
+      "Long-term stable release."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-quail2-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-quail2-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-quail2-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail2-windows.exe",
+        "size": "1.5 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-quail2-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail2-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_2"
+  },
+  {
+    "id": 7,
+    "title": "Android Studio Quail 3 | 2026.1.3 Canary 4",
+    "create_date": "July 9, 2026",
+    "description": [
+      "Fourth Canary release of Android Studio Quail 3.",
+      "Introduces additional preview features.",
+      "Improves IDE responsiveness.",
+      "Updates Compose tooling.",
+      "Enhances code inspections.",
+      "Improves Android Emulator performance.",
+      "Includes SDK updates.",
+      "Fixes issues from previous Canary releases.",
+      "Recommended for early feature testing.",
+      "Not intended for production use."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-quail3-canary4-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-quail3-canary4-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-quail3-canary4-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail3-canary4-windows.exe",
+        "size": "1.5 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-quail3-canary4-linux.tar.gz",
+        "size": "1.6 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail3-canary4-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_7"
+  },
+  {
+    "id": 8,
+    "title": "Android Studio Quail 2 | 2026.1.2 RC 2",
+    "create_date": "July 8, 2026",
+    "description": [
+      "Second Release Candidate for Android Studio Quail 2.",
+      "Addresses issues found in RC 1.",
+      "Improves IDE stability.",
+      "Optimizes Gradle synchronization.",
+      "Enhances editor performance.",
+      "Improves emulator compatibility.",
+      "Updates Android SDK Manager.",
+      "Includes final bug fixes before stable release.",
+      "Suitable for release verification.",
+      "Nearly identical to the stable version."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-quail2-rc2-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-quail2-rc2-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-quail2-rc2-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail2-rc2-windows.exe",
+        "size": "1.5 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-quail2-rc2-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail2-rc2-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_2"
+  },
+  {
+    "id": 9,
+    "title": "Android Studio Quail 3 | 2026.1.3 Canary 3",
+    "create_date": "July 2, 2026",
+    "description": [
+      "Third Canary release of Android Studio Quail 3.",
+      "Introduces additional experimental improvements.",
+      "Enhances IDE performance.",
+      "Improves code completion accuracy.",
+      "Optimizes Compose Preview rendering.",
+      "Updates Android Emulator.",
+      "Improves Gradle project sync.",
+      "Fixes known Canary issues.",
+      "For developers testing new features.",
+      "Not intended for production use."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-quail3-canary3-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-quail3-canary3-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-quail3-canary3-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail3-canary3-windows.exe",
+        "size": "1.5 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-quail3-canary3-linux.tar.gz",
+        "size": "1.6 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail3-canary3-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_3"
+  },
+  {
+    "id": 10,
+    "title": "Android Studio Quail 3 | 2026.1.3 Canary 2",
+    "create_date": "June 26, 2026",
+    "description": [
+      "Second Canary release of Android Studio Quail 3.",
+      "Introduces new experimental IDE capabilities.",
+      "Improves editor responsiveness.",
+      "Enhances Kotlin and Java support.",
+      "Updates Gradle integration.",
+      "Improves Android Emulator compatibility.",
+      "Includes SDK tool updates.",
+      "Fixes issues reported in Canary 1.",
+      "Recommended for preview testing only.",
+      "Not suitable for production development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-quail3-canary2-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-quail3-canary2-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-quail3-canary2-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail3-canary2-windows.exe",
+        "size": "1.5 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-quail3-canary2-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail3-canary2-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_3"
+  },
+  {
+    "id": 11,
+    "title": "Android Studio Quail 3 | 2026.1.3 Canary 1",
+    "create_date": "June 18, 2026",
+    "description": [
+      "Introduces the first Canary release of Android Studio Quail 3 (2026.1.3).",
+      "Includes early access to upcoming IDE enhancements and experimental features.",
+      "Improves code completion, navigation, and editor performance.",
+      "Enhances Gradle synchronization and project indexing speed.",
+      "Updates Android Emulator compatibility and device management tools.",
+      "Provides bug fixes for Layout Inspector, Logcat, and Profiler.",
+      "Improves Jetpack Compose development workflow and preview stability.",
+      "Includes the latest Android SDK tools and platform support.",
+      "Recommended for developers who want to test upcoming Android Studio features.",
+      "Not recommended for production development due to experimental changes."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-quail3-canary1-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-quail3-canary1-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-quail3-canary1-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail3-canary1-windows.exe",
+        "size": "1.5 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-quail3-canary1-linux.tar.gz",
+        "size": "1.6 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail3-canary1-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_3"
+  },
+  {
+    "id": 12,
+    "title": "Android Studio Quail 2 | 2026.1.2 RC 1",
+    "create_date": "June 17, 2026",
+    "description": [
+      "Introduces the first Release Candidate of Android Studio Quail 2 (2026.1.2).",
+      "Focuses on stability improvements before the final public release.",
+      "Includes bug fixes reported during the Canary testing cycle.",
+      "Improves Gradle build performance and synchronization reliability.",
+      "Enhances Android Emulator integration and device management.",
+      "Improves editor responsiveness and code completion accuracy.",
+      "Updates Jetpack Compose tooling and preview support.",
+      "Includes the latest Android SDK and platform tools.",
+      "Recommended for developers preparing to migrate to the stable release.",
+      "Suitable for testing production projects before final availability."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-quail2-rc1-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-quail2-rc1-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-quail2-rc1-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail2-rc1-windows.exe",
+        "size": "1.5 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-quail2-rc1-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail2-rc1-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_2"
+  },
+  {
+    "id": 13,
+    "title": "Android Studio Quail 1 | 2026.1.1 Patch 2",
+    "create_date": "June 16, 2026",
+    "description": [
+      "Delivers the second Patch release for Android Studio Quail 1 (2026.1.1).",
+      "Resolves issues reported after the initial stable release.",
+      "Improves IDE stability and memory usage.",
+      "Fixes Gradle synchronization and project indexing bugs.",
+      "Enhances Android Emulator reliability.",
+      "Provides bug fixes for Layout Inspector and Logcat.",
+      "Improves Jetpack Compose preview performance.",
+      "Updates bundled Android SDK components.",
+      "Recommended for all developers using Quail 1.",
+      "Suitable for production development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-quail1-patch2-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-quail1-patch2-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-quail1-patch2-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail1-patch2-windows.exe",
+        "size": "1.5 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-quail1-patch2-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail1-patch2-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_1"
+  },
+  {
+    "id": 14,
+    "title": "Android Studio Quail 2 | 2026.1.2 Canary 7",
+    "create_date": "June 11, 2026",
+    "description": [
+      "Introduces the seventh Canary release of Android Studio Quail 2 (2026.1.2).",
+      "Adds the latest experimental IDE improvements.",
+      "Improves editor responsiveness and code analysis.",
+      "Enhances Gradle synchronization performance.",
+      "Updates Android Emulator integration.",
+      "Provides fixes for Profiler, Layout Inspector, and Logcat.",
+      "Improves Jetpack Compose tooling.",
+      "Includes updated Android SDK tools.",
+      "Recommended for testing upcoming features.",
+      "Not recommended for production development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-quail2-canary7-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-quail2-canary7-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-quail2-canary7-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail2-canary7-windows.exe",
+        "size": "1.5 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-quail2-canary7-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail2-canary7-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_2"
+  },
+  {
+    "id": 15,
+    "title": "Android Studio Quail 1 | 2026.1.1 Patch 1",
+    "create_date": "June 11, 2026",
+    "description": [
+      "Delivers the first Patch release for Android Studio Quail 1 (2026.1.1).",
+      "Addresses stability and performance issues.",
+      "Improves Gradle build reliability.",
+      "Enhances IDE responsiveness.",
+      "Provides Android Emulator bug fixes.",
+      "Updates Logcat and Profiler components.",
+      "Improves Compose Preview functionality.",
+      "Includes updated SDK tools.",
+      "Recommended for all Quail 1 users.",
+      "Suitable for production development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-quail1-patch1-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-quail1-patch1-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-quail1-patch1-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail1-patch1-windows.exe",
+        "size": "1.5 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-quail1-patch1-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail1-patch1-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_1"
+  },
+  {
+    "id": 16,
+    "title": "Android Studio Quail 2 | 2026.1.2 Canary 6",
+    "create_date": "June 7, 2026",
+    "description": [
+      "Introduces the sixth Canary release of Android Studio Quail 2 (2026.1.2).",
+      "Adds experimental IDE enhancements and fixes.",
+      "Improves Gradle synchronization speed.",
+      "Enhances Android Emulator support.",
+      "Improves code analysis and inspections.",
+      "Fixes issues in Logcat and Profiler.",
+      "Updates Compose tooling.",
+      "Includes latest SDK components.",
+      "Recommended for feature testing.",
+      "Not intended for production development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-quail2-canary6-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-quail2-canary6-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-quail2-canary6-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail2-canary6-windows.exe",
+        "size": "1.5 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-quail2-canary6-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail2-canary6-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_2"
+  },
+  {
+    "id": 17,
+    "title": "Android Studio Quail 1 | 2026.1.1",
+    "create_date": "June 2, 2026",
+    "description": [
+      "Official stable release of Android Studio Quail 1 (2026.1.1).",
+      "Introduces new IDE features and performance improvements.",
+      "Enhances code editing and navigation.",
+      "Improves Gradle synchronization.",
+      "Updates Android Emulator tools.",
+      "Provides Compose development enhancements.",
+      "Includes updated Layout Inspector and Logcat.",
+      "Bundles the latest Android SDK tools.",
+      "Recommended for production development.",
+      "Suitable for all Android developers."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-quail1-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-quail1-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-quail1-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail1-windows.exe",
+        "size": "1.5 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-quail1-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail1-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_1"
+  },
+  {
+    "id": 18,
+    "title": "Android Studio Quail 2 | 2026.1.2 Canary 4",
+    "create_date": "May 29, 2026",
+    "description": [
+      "Introduces the fourth Canary release of Android Studio Quail 2 (2026.1.2).",
+      "Adds new experimental IDE capabilities.",
+      "Improves project indexing performance.",
+      "Enhances Android Emulator compatibility.",
+      "Provides Gradle build improvements.",
+      "Fixes editor and profiler issues.",
+      "Improves Compose previews.",
+      "Updates SDK tools.",
+      "Recommended for early testing.",
+      "Not intended for production use."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-quail2-canary4-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-quail2-canary4-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-quail2-canary4-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail2-canary4-windows.exe",
+        "size": "1.5 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-quail2-canary4-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail2-canary4-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_2"
+  },
+  {
+    "id": 19,
+    "title": "Android Studio Quail 2 | 2026.1.2 Canary 3",
+    "create_date": "May 28, 2026",
+    "description": [
+      "Introduces the third Canary release of Android Studio Quail 2 (2026.1.2).",
+      "Includes experimental IDE enhancements.",
+      "Improves code completion and inspections.",
+      "Enhances Gradle synchronization.",
+      "Updates Android Emulator support.",
+      "Fixes issues in Logcat and Layout Inspector.",
+      "Improves Compose tooling.",
+      "Includes updated SDK tools.",
+      "Recommended for testing new features.",
+      "Not recommended for production."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-quail2-canary3-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-quail2-canary3-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-quail2-canary3-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail2-canary3-windows.exe",
+        "size": "1.5 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-quail2-canary3-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail2-canary3-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_2"
+  },
+  {
+    "id": 20,
+    "title": "Android Studio Quail 1 | 2026.1.1 RC 2",
+    "create_date": "May 26, 2026",
+    "description": [
+      "Introduces the second Release Candidate of Android Studio Quail 1 (2026.1.1).",
+      "Focuses on final stability improvements before stable release.",
+      "Fixes issues discovered during RC testing.",
+      "Improves Gradle synchronization and project indexing.",
+      "Enhances Android Emulator compatibility.",
+      "Provides IDE performance improvements.",
+      "Updates Compose tooling and previews.",
+      "Includes latest SDK components.",
+      "Recommended for validating production projects.",
+      "Nearly identical to the final stable release."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-quail1-rc2-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-quail1-rc2-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-quail1-rc2-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail1-rc2-windows.exe",
+        "size": "1.5 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-quail1-rc2-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail1-rc2-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_1"
+  },
+  {
+    "id": 21,
+    "title": "Android Studio Quail 2 | 2026.1.2 Canary 2",
+    "create_date": "May 21, 2026",
+    "description": [
+      "Introduces the second Canary release of Android Studio Quail 2 (2026.1.2).",
+      "Includes additional experimental IDE improvements and bug fixes.",
+      "Enhances code completion, navigation, and editor responsiveness.",
+      "Improves Gradle synchronization and project indexing performance.",
+      "Updates Android Emulator compatibility and device management tools.",
+      "Provides fixes for Layout Inspector, Logcat, and Profiler.",
+      "Improves Jetpack Compose development workflow and preview stability.",
+      "Includes the latest Android SDK tools and platform support.",
+      "Recommended for developers testing upcoming Android Studio features.",
+      "Not recommended for production development due to experimental changes."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-quail2-canary2-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-quail2-canary2-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-quail2-canary2-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail2-canary2-windows.exe",
+        "size": "1.5 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-quail2-canary2-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail2-canary2-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_2"
+  },
+  {
+    "id": 22,
+    "title": "Android Studio Quail 2 | 2026.1.2 Canary 1",
+    "create_date": "May 19, 2026",
+    "description": [
+      "Introduces the first Canary release of Android Studio Quail 2 (2026.1.2).",
+      "Provides early access to upcoming IDE enhancements.",
+      "Improves code editing and project navigation.",
+      "Enhances Gradle build synchronization performance.",
+      "Updates Android Emulator integration.",
+      "Includes bug fixes for development tools.",
+      "Improves Jetpack Compose tooling and previews.",
+      "Bundles the latest Android SDK tools.",
+      "Recommended for early feature evaluation.",
+      "Not intended for production development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-quail2-canary1-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-quail2-canary1-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-quail2-canary1-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail2-canary1-windows.exe",
+        "size": "1.5 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-quail2-canary1-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail2-canary1-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_2"
+  },
+  {
+    "id": 23,
+    "title": "Android Studio Quail 1 | 2026.1.1 RC 1",
+    "create_date": "May 19, 2026",
+    "description": [
+      "Introduces the first Release Candidate of Android Studio Quail 1 (2026.1.1).",
+      "Focuses on stability improvements before the stable release.",
+      "Resolves issues identified during Canary testing.",
+      "Improves Gradle synchronization reliability.",
+      "Enhances Android Emulator performance.",
+      "Provides editor and inspection improvements.",
+      "Updates Jetpack Compose tooling.",
+      "Includes the latest Android SDK tools.",
+      "Recommended for validating production projects.",
+      "Suitable for pre-release testing."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-quail1-rc1-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-quail1-rc1-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-quail1-rc1-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail1-rc1-windows.exe",
+        "size": "1.5 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-quail1-rc1-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail1-rc1-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_1"
+  },
+  {
+    "id": 24,
+    "title": "Android Studio Quail 1 | 2026.1.1 Canary 5",
+    "create_date": "May 14, 2026",
+    "description": [
+      "Introduces the fifth Canary release of Android Studio Quail 1 (2026.1.1).",
+      "Adds experimental IDE improvements and performance enhancements.",
+      "Improves code completion and editor responsiveness.",
+      "Enhances Gradle synchronization speed.",
+      "Updates Android Emulator compatibility.",
+      "Provides bug fixes for development tools.",
+      "Improves Jetpack Compose previews.",
+      "Includes updated Android SDK components.",
+      "Recommended for testing upcoming features.",
+      "Not recommended for production use."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-quail1-canary5-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-quail1-canary5-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-quail1-canary5-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail1-canary5-windows.exe",
+        "size": "1.5 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-quail1-canary5-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail1-canary5-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_1"
+  },
+  {
+    "id": 25,
+    "title": "Android Studio Quail 1 | 2026.1.1 Canary 4",
+    "create_date": "May 7, 2026",
+    "description": [
+      "Introduces the fourth Canary release of Android Studio Quail 1 (2026.1.1).",
+      "Adds new experimental IDE capabilities.",
+      "Improves project indexing and Gradle synchronization.",
+      "Enhances Android Emulator support.",
+      "Provides fixes for Layout Inspector and Logcat.",
+      "Improves editor responsiveness.",
+      "Updates Jetpack Compose tooling.",
+      "Includes the latest Android SDK tools.",
+      "Recommended for testing preview features.",
+      "Not intended for production development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-quail1-canary4-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-quail1-canary4-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-quail1-canary4-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail1-canary4-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-quail1-canary4-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail1-canary4-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_1"
+  },
+  {
+    "id": 26,
+    "title": "Android Studio Panda 4 | 2025.3.4 Patch 1",
+    "create_date": "May 5, 2026",
+    "description": [
+      "Delivers the first Patch release for Android Studio Panda 4 (2025.3.4).",
+      "Fixes bugs reported after the stable release.",
+      "Improves IDE stability and overall performance.",
+      "Enhances Gradle synchronization reliability.",
+      "Updates Android Emulator compatibility.",
+      "Provides fixes for Logcat, Profiler, and Layout Inspector.",
+      "Improves Jetpack Compose development experience.",
+      "Includes updated Android SDK tools.",
+      "Recommended for all Panda 4 users.",
+      "Suitable for production development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-panda4-patch1-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-panda4-patch1-mac_arm.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-panda4-patch1-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-panda4-patch1-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-panda4-patch1-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-panda4-patch1-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_8"
+  },
+  {
+    "id": 27,
+    "title": "Android Studio Quail 1 | 2026.1.1 Canary 3",
+    "create_date": "April 30, 2026",
+    "description": [
+      "Introduces the third Canary release of Android Studio Quail 1 (2026.1.1).",
+      "Adds new experimental IDE features and improvements.",
+      "Improves project indexing performance.",
+      "Enhances Android Emulator compatibility.",
+      "Provides Gradle build optimizations.",
+      "Fixes issues in Layout Inspector and Logcat.",
+      "Improves Compose development workflow.",
+      "Includes updated SDK tools.",
+      "Recommended for feature evaluation.",
+      "Not intended for production use."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-quail1-canary3-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-quail1-canary3-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-quail1-canary3-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail1-canary3-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-quail1-canary3-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail1-canary3-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_1"
+  },
+  {
+    "id": 28,
+    "title": "Android Studio Quail 1 | 2026.1.1 Canary 2",
+    "create_date": "April 24, 2026",
+    "description": [
+      "Introduces the second Canary release of Android Studio Quail 1 (2026.1.1).",
+      "Includes experimental IDE improvements and bug fixes.",
+      "Improves code editing and project navigation.",
+      "Enhances Gradle synchronization performance.",
+      "Updates Android Emulator tools.",
+      "Provides fixes for Layout Inspector and Logcat.",
+      "Improves Compose previews.",
+      "Includes updated SDK components.",
+      "Recommended for testing preview features.",
+      "Not recommended for production development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-quail1-canary2-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-quail1-canary2-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-quail1-canary2-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail1-canary2-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-quail1-canary2-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail1-canary2-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_1"
+  },
+  {
+    "id": 29,
+    "title": "Android Studio Panda 4 | 2025.3.4",
+    "create_date": "April 21, 2026",
+    "description": [
+      "Official stable release of Android Studio Panda 4 (2025.3.4).",
+      "Introduces new IDE features and performance enhancements.",
+      "Improves code editing and navigation.",
+      "Enhances Gradle synchronization and build performance.",
+      "Updates Android Emulator compatibility.",
+      "Provides improved Jetpack Compose tooling.",
+      "Includes updates to Layout Inspector and Logcat.",
+      "Bundles the latest Android SDK tools.",
+      "Recommended for production development.",
+      "Suitable for all Android developers."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-panda4-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-panda4-mac_arm.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-panda4-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-panda4-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-panda4-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-panda4-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_8"
+  },
+  {
+    "id": 30,
+    "title": "Android Studio Quail 1 | 2026.1.1 Canary 1",
+    "create_date": "April 16, 2026",
+    "description": [
+      "Introduces the first Canary release of Android Studio Quail 1 (2026.1.1).",
+      "Provides early access to upcoming IDE features.",
+      "Improves code completion and project navigation.",
+      "Enhances Gradle synchronization performance.",
+      "Updates Android Emulator compatibility.",
+      "Includes improvements for Layout Inspector and Logcat.",
+      "Enhances Jetpack Compose tooling.",
+      "Bundles the latest Android SDK tools.",
+      "Recommended for developers evaluating new features.",
+      "Not intended for production development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-quail1-canary1-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-quail1-canary1-mac_arm.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-quail1-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail1-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-quail1-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-quail1-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_1"
+  },
+  {
+    "id": 31,
+    "title": "Android Studio Panda 4 | 2025.3.4 RC 1",
+    "create_date": "April 13, 2026",
+    "description": [
+      "Introduces the first Release Candidate of Android Studio Panda 4 (2025.3.4).",
+      "Focuses on stability improvements before the final stable release.",
+      "Resolves issues identified during Canary testing.",
+      "Improves Gradle synchronization and project indexing reliability.",
+      "Enhances Android Emulator compatibility and performance.",
+      "Provides bug fixes for Layout Inspector, Logcat, and Profiler.",
+      "Improves Jetpack Compose development tools and previews.",
+      "Includes the latest Android SDK tools and platform support.",
+      "Recommended for validating production projects before stable release.",
+      "Nearly identical to the final stable version."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-panda4-rc1-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-panda4-rc1-mac_arm.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-panda4-rc1-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-panda4-rc1-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-panda4-rc1-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-panda4-rc1-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_8"
+  },
+  {
+    "id": 32,
+    "title": "Android Studio Panda 3 | 2025.3.3 Patch 1",
+    "create_date": "April 13, 2026",
+    "description": [
+      "Delivers the first Patch release for Android Studio Panda 3 (2025.3.3).",
+      "Resolves issues reported after the stable release.",
+      "Improves IDE stability and memory usage.",
+      "Enhances Gradle synchronization reliability.",
+      "Updates Android Emulator compatibility.",
+      "Provides fixes for Logcat, Layout Inspector, and Profiler.",
+      "Improves Jetpack Compose tooling.",
+      "Includes updated Android SDK tools.",
+      "Recommended for all Panda 3 users.",
+      "Suitable for production development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-panda3-patch1-cros.deb",
+        "size": "1.1 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-panda3-patch1-mac_arm.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-panda3-patch1-mac.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-panda3-patch1-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-panda3-patch1-linux.tar.gz",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-panda3-patch1-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_7"
+  },
+  {
+    "id": 33,
+    "title": "Android Studio Panda 4 | 2025.3.4 Canary 4",
+    "create_date": "April 9, 2026",
+    "description": [
+      "Introduces the fourth Canary release of Android Studio Panda 4 (2025.3.4).",
+      "Includes additional experimental IDE enhancements.",
+      "Improves editor responsiveness and code completion.",
+      "Enhances Gradle synchronization performance.",
+      "Updates Android Emulator compatibility.",
+      "Provides fixes for Layout Inspector, Logcat, and Profiler.",
+      "Improves Jetpack Compose development workflow.",
+      "Includes updated Android SDK tools.",
+      "Recommended for testing upcoming Android Studio features.",
+      "Not intended for production development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-panda4-canary4-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-panda4-canary4-mac_arm.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-panda4-canary4-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-panda4-canary4-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-panda4-canary4-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-panda4-canary4-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_8"
+  },
+  {
+    "id": 34,
+    "title": "Android Studio Panda 4 | 2025.3.4 Canary 3",
+    "create_date": "April 3, 2026",
+    "description": [
+      "Introduces the third Canary release of Android Studio Panda 4 (2025.3.4).",
+      "Adds experimental IDE improvements and fixes.",
+      "Improves project indexing performance.",
+      "Enhances Gradle synchronization speed.",
+      "Updates Android Emulator support.",
+      "Provides improvements for Compose tooling.",
+      "Fixes issues in Logcat and Layout Inspector.",
+      "Includes updated Android SDK tools.",
+      "Recommended for early feature testing.",
+      "Not recommended for production development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-panda4-canary3-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-panda4-canary3-mac_arm.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-panda4-canary3-mac.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-panda4-canary3-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-panda4-canary3-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-panda4-canary3-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_8"
+  },
+  {
+    "id": 35,
+    "title": "Android Studio Panda 3 | 2025.3.3",
+    "create_date": "April 2, 2026",
+    "description": [
+      "Official stable release of Android Studio Panda 3 (2025.3.3).",
+      "Introduces new IDE features and performance improvements.",
+      "Enhances code editing and project navigation.",
+      "Improves Gradle synchronization and build performance.",
+      "Updates Android Emulator compatibility.",
+      "Provides enhanced Jetpack Compose tooling.",
+      "Includes improvements to Layout Inspector and Logcat.",
+      "Bundles the latest Android SDK tools.",
+      "Recommended for production development.",
+      "Suitable for all Android developers."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-panda3-cros.deb",
+        "size": "1.1 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-panda3-mac_arm.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-panda3-mac.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-panda3-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-panda3-linux.tar.gz",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-panda3-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_7"
+  },
+  {
+    "id": 36,
+    "title": "Android Studio Panda 4 | 2025.3.4 Canary 2",
+    "create_date": "March 26, 2026",
+    "description": [
+      "Introduces the second Canary release of Android Studio Panda 4 (2025.3.4).",
+      "Adds experimental IDE enhancements and performance improvements.",
+      "Improves code completion and navigation.",
+      "Enhances Gradle synchronization.",
+      "Updates Android Emulator compatibility.",
+      "Provides fixes for Logcat and Profiler.",
+      "Improves Compose Preview stability.",
+      "Includes updated Android SDK tools.",
+      "Recommended for testing new features.",
+      "Not intended for production development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-panda4-canary2-cros.deb",
+        "size": "1.1 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-panda4-canary2-mac_arm.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-panda4-canary2-mac.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-panda4-canary2-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-panda4-canary2-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-panda4-canary2-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_8"
+  },
+  {
+    "id": 37,
+    "title": "Android Studio Panda 4 | 2025.3.4 Canary 1",
+    "create_date": "March 19, 2026",
+    "description": [
+      "Introduces the first Canary release of Android Studio Panda 4 (2025.3.4).",
+      "Provides early access to upcoming IDE features.",
+      "Improves code editing and navigation.",
+      "Enhances Gradle synchronization performance.",
+      "Updates Android Emulator compatibility.",
+      "Improves Jetpack Compose tooling.",
+      "Provides fixes for development tools.",
+      "Includes the latest Android SDK components.",
+      "Recommended for early feature evaluation.",
+      "Not intended for production development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-panda4-canary1-cros.deb",
+        "size": "1.1 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-panda4-canary1-mac_arm.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-panda4-canary1-mac.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-panda4-canary1-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-panda4-canary1-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-panda4-canary1-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_8"
+  },
+  {
+    "id": 38,
+    "title": "Android Studio Panda 3 | 2025.3.3 RC 1",
+    "create_date": "March 19, 2026",
+    "description": [
+      "Introduces the first Release Candidate of Android Studio Panda 3 (2025.3.3).",
+      "Focuses on stability improvements before the final release.",
+      "Resolves issues found during Canary testing.",
+      "Improves Gradle synchronization reliability.",
+      "Enhances Android Emulator performance.",
+      "Provides fixes for Layout Inspector, Logcat, and Profiler.",
+      "Improves Jetpack Compose development tools.",
+      "Includes updated Android SDK components.",
+      "Recommended for validating production projects.",
+      "Nearly identical to the final stable release."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-panda3-rc1-cros.deb",
+        "size": "1.1 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-panda3-rc1-mac_arm.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-panda3-rc1-mac.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-panda3-rc1-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-panda3-rc1-linux.tar.gz",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-panda3-rc1-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_7"
+  },
+  {
+    "id": 39,
+    "title": "Android Studio Panda 3 | 2025.3.3 Canary 4",
+    "create_date": "March 12, 2026",
+    "description": [
+      "Introduces the fourth Canary release of Android Studio Panda 3 (2025.3.3).",
+      "Adds additional experimental IDE enhancements.",
+      "Improves project indexing performance.",
+      "Enhances code analysis and inspections.",
+      "Updates Android Emulator compatibility.",
+      "Provides fixes for Layout Inspector and Logcat.",
+      "Improves Jetpack Compose tooling.",
+      "Includes updated Android SDK tools.",
+      "Recommended for testing preview features.",
+      "Not recommended for production development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-panda3-canary4-cros.deb",
+        "size": "1.1 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-panda3-canary4-mac_arm.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-panda3-canary4-mac.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-panda3-canary4-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-panda3-canary4-linux.tar.gz",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-panda3-canary4-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_7"
+  },
+  {
+    "id": 40,
+    "title": "Android Studio Panda 3 | 2025.3.3 Canary 3",
+    "create_date": "March 9, 2026",
+    "description": [
+      "Introduces the third Canary release of Android Studio Panda 3 (2025.3.3).",
+      "Includes experimental IDE improvements and bug fixes.",
+      "Improves editor responsiveness and code completion.",
+      "Enhances Gradle synchronization performance.",
+      "Updates Android Emulator compatibility.",
+      "Provides fixes for Logcat, Profiler, and Layout Inspector.",
+      "Improves Jetpack Compose previews and tooling.",
+      "Includes the latest Android SDK tools.",
+      "Recommended for developers testing new features.",
+      "Not intended for production development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-panda3-canary3-cros.deb",
+        "size": "1.1 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-panda3-canary3-mac_arm.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-panda3-canary3-mac.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-panda3-canary3-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-panda3-canary3-linux.tar.gz",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-panda3-canary3-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_7"
+  },
+  {
+    "id": 41,
+    "title": "Android Studio Panda 2 | 2025.3.2",
+    "create_date": "March 3, 2026",
+    "description": [
+      "Official stable release of Android Studio Panda 2 (2025.3.2).",
+      "Introduces new IDE improvements and performance enhancements.",
+      "Improves code editing, navigation, and refactoring tools.",
+      "Enhances Gradle synchronization and build reliability.",
+      "Updates Android Emulator compatibility and device management.",
+      "Provides fixes for Layout Inspector, Logcat, and Profiler.",
+      "Improves Jetpack Compose development workflow and preview stability.",
+      "Includes the latest Android SDK tools and platform support.",
+      "Recommended for production development.",
+      "Suitable for all Android developers."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-panda2-cros.deb",
+        "size": "1.1 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-panda2-mac_arm.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-panda2-mac.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-panda2-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-panda2-linux.tar.gz",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-panda2-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_6"
+  },
+  {
+    "id": 42,
+    "title": "Android Studio Panda 3 | 2025.3.3 Canary 2",
+    "create_date": "February 26, 2026",
+    "description": [
+      "Introduces the second Canary release of Android Studio Panda 3 (2025.3.3).",
+      "Includes experimental IDE enhancements and bug fixes.",
+      "Improves code completion and editor responsiveness.",
+      "Enhances Gradle synchronization and project indexing.",
+      "Updates Android Emulator compatibility.",
+      "Provides improvements for Layout Inspector and Logcat.",
+      "Enhances Jetpack Compose tooling and previews.",
+      "Includes updated Android SDK tools.",
+      "Recommended for developers testing upcoming features.",
+      "Not recommended for production development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-panda3-canary2-cros.deb",
+        "size": "1.1 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-panda3-canary2-mac_arm.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-panda3-canary2-mac.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-panda3-canary2-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-panda3-canary2-linux.tar.gz",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-panda3-canary2-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_7"
+  },
+  {
+    "id": 43,
+    "title": "Android Studio Panda 3 | 2025.3.3 Canary 1",
+    "create_date": "February 19, 2026",
+    "description": [
+      "Introduces the first Canary release of Android Studio Panda 3 (2025.3.3).",
+      "Provides early access to upcoming IDE features.",
+      "Improves code editing and project navigation.",
+      "Enhances Gradle synchronization performance.",
+      "Updates Android Emulator compatibility.",
+      "Provides fixes for Logcat and Layout Inspector.",
+      "Improves Jetpack Compose tooling.",
+      "Includes the latest Android SDK tools.",
+      "Recommended for early feature evaluation.",
+      "Not intended for production development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-panda3-canary1-cros.deb",
+        "size": "1.1 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-panda3-canary1-mac_arm.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-panda3-canary1-mac.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-panda3-canary1-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-panda3-canary1-linux.tar.gz",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-panda3-canary1-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_7"
+  },
+  {
+    "id": 44,
+    "title": "Android Studio Panda 2 | 2025.3.2 RC 1",
+    "create_date": "February 19, 2026",
+    "description": [
+      "Introduces the first Release Candidate of Android Studio Panda 2 (2025.3.2).",
+      "Focuses on stability improvements before the stable release.",
+      "Resolves issues discovered during Canary testing.",
+      "Improves Gradle synchronization and project indexing.",
+      "Enhances Android Emulator compatibility.",
+      "Provides fixes for Layout Inspector, Logcat, and Profiler.",
+      "Improves Jetpack Compose tooling.",
+      "Includes updated Android SDK tools.",
+      "Recommended for validating production projects.",
+      "Nearly identical to the final stable release."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-panda2-rc1-cros.deb",
+        "size": "1.1 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-panda2-rc1-mac_arm.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-panda2-rc1-mac.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-panda2-rc1-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-panda2-rc1-linux.tar.gz",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-panda2-rc1-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_6"
+  },
+  {
+    "id": 45,
+    "title": "Android Studio Panda 1 | 2025.3.1 Patch 1",
+    "create_date": "February 13, 2026",
+    "description": [
+      "Delivers the first Patch release for Android Studio Panda 1 (2025.3.1).",
+      "Fixes issues reported after the stable release.",
+      "Improves IDE stability and performance.",
+      "Enhances Gradle synchronization reliability.",
+      "Updates Android Emulator compatibility.",
+      "Provides fixes for Layout Inspector, Logcat, and Profiler.",
+      "Improves Jetpack Compose development tools.",
+      "Includes updated Android SDK components.",
+      "Recommended for all Panda 1 users.",
+      "Suitable for production development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-panda1-patch1-cros.deb",
+        "size": "1.1 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-panda1-patch1-mac_arm.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-panda1-patch1-mac.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-panda1-patch1-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-panda1-patch1-linux.tar.gz",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-panda1-patch1-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_5"
+  },
+  {
+    "id": 46,
+    "title": "Android Studio Panda 2 | 2025.3.2 Canary 4",
+    "create_date": "February 12, 2026",
+    "description": [
+      "Introduces the fourth Canary release of Android Studio Panda 2 (2025.3.2).",
+      "Includes experimental IDE improvements and bug fixes.",
+      "Improves project indexing and editor performance.",
+      "Enhances Gradle synchronization speed.",
+      "Updates Android Emulator compatibility.",
+      "Provides improvements for Layout Inspector and Logcat.",
+      "Improves Jetpack Compose development workflow.",
+      "Includes updated Android SDK tools.",
+      "Recommended for preview feature testing.",
+      "Not intended for production development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-panda2-canary4-cros.deb",
+        "size": "1.1 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-panda2-canary4-mac_arm.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-panda2-canary4-mac.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-panda2-canary4-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-panda2-canary4-linux.tar.gz",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-panda2-canary4-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_6"
+  },
+  {
+    "id": 47,
+    "title": "Android Studio Panda 1 | 2025.3.1",
+    "create_date": "February 10, 2026",
+    "description": [
+      "Official stable release of Android Studio Panda 1 (2025.3.1).",
+      "Introduces new IDE features and performance improvements.",
+      "Enhances code editing and project navigation.",
+      "Improves Gradle synchronization reliability.",
+      "Updates Android Emulator compatibility.",
+      "Provides improvements for Jetpack Compose tooling.",
+      "Includes updates to Layout Inspector and Logcat.",
+      "Bundles the latest Android SDK tools.",
+      "Recommended for production development.",
+      "Suitable for all Android developers."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-panda1-cros.deb",
+        "size": "1.1 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-panda1-mac_arm.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-panda1-mac.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-panda1-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-panda1-linux.tar.gz",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-panda1-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_5"
+  },
+  {
+    "id": 48,
+    "title": "Android Studio Panda 2 | 2025.3.2 Canary 3",
+    "create_date": "February 5, 2026",
+    "description": [
+      "Introduces the third Canary release of Android Studio Panda 2 (2025.3.2).",
+      "Adds additional experimental IDE improvements.",
+      "Improves code completion and navigation.",
+      "Enhances Gradle synchronization and project indexing.",
+      "Updates Android Emulator compatibility.",
+      "Provides fixes for Layout Inspector, Logcat, and Profiler.",
+      "Improves Jetpack Compose tooling.",
+      "Includes updated Android SDK tools.",
+      "Recommended for testing preview features.",
+      "Not recommended for production development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-panda2-canary3-cros.deb",
+        "size": "1.1 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-panda2-canary3-mac_arm.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-panda2-canary3-mac.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-panda2-canary3-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-panda2-canary3-linux.tar.gz",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-panda2-canary3-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_6"
+  },
+  {
+    "id": 49,
+    "title": "Android Studio Panda 2 | 2025.3.2 Canary 2",
+    "create_date": "January 30, 2026",
+    "description": [
+      "Introduces the second Canary release of Android Studio Panda 2 (2025.3.2).",
+      "Includes experimental IDE improvements and performance enhancements.",
+      "Improves editor responsiveness and code completion.",
+      "Enhances Gradle synchronization.",
+      "Updates Android Emulator compatibility.",
+      "Provides fixes for Logcat and Layout Inspector.",
+      "Improves Jetpack Compose development tools.",
+      "Includes updated Android SDK components.",
+      "Recommended for early feature testing.",
+      "Not intended for production development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-panda2-canary2-cros.deb",
+        "size": "1.1 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-panda2-canary2-mac_arm.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-panda2-canary2-mac.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-panda2-canary2-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-panda2-canary2-linux.tar.gz",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-panda2-canary2-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_6"
+  },
+  {
+    "id": 50,
+    "title": "Android Studio Panda 1 | 2025.3.1 RC 1",
+    "create_date": "January 28, 2026",
+    "description": [
+      "Introduces the first Release Candidate of Android Studio Panda 1 (2025.3.1).",
+      "Focuses on final stability improvements before stable release.",
+      "Fixes issues identified during Canary testing.",
+      "Improves Gradle synchronization and project indexing.",
+      "Enhances Android Emulator compatibility.",
+      "Provides fixes for Layout Inspector, Logcat, and Profiler.",
+      "Improves Jetpack Compose tooling and previews.",
+      "Includes updated Android SDK tools.",
+      "Recommended for validating production projects.",
+      "Nearly identical to the final stable release."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-panda1-rc1-cros.deb",
+        "size": "1.1 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-panda1-rc1-mac_arm.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-panda1-rc1-mac.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-panda1-rc1-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-panda1-rc1-linux.tar.gz",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-panda1-rc1-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_5"
+  },
+  {
+    "id": 51,
+    "title": "Android Studio Panda 2 | 2025.3.2 Canary 1",
+    "create_date": "January 26, 2026",
+    "description": [
+      "Introduces the first Canary release of Android Studio Panda 2 (2025.3.2).",
+      "Provides early access to upcoming IDE features and improvements.",
+      "Enhances code completion, navigation, and editor responsiveness.",
+      "Improves Gradle synchronization and project indexing performance.",
+      "Updates Android Emulator compatibility and device management.",
+      "Includes fixes for Layout Inspector, Logcat, and Profiler.",
+      "Improves Jetpack Compose development workflow and preview stability.",
+      "Bundles the latest Android SDK tools and platform support.",
+      "Recommended for developers testing upcoming features.",
+      "Not intended for production development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-panda2-canary1-cros.deb",
+        "size": "1.1 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-panda2-canary1-mac_arm.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-panda2-canary1-mac.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-panda2-canary1-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-panda2-canary1-linux.tar.gz",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-panda2-canary1-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_6"
+  },
+  {
+    "id": 52,
+    "title": "Android Studio Panda 1 | 2025.3.1 Canary 5",
+    "create_date": "January 15, 2026",
+    "description": [
+      "Introduces the fifth Canary release of Android Studio Panda 1 (2025.3.1).",
+      "Includes additional experimental IDE enhancements and bug fixes.",
+      "Improves editor responsiveness and code completion.",
+      "Enhances Gradle synchronization and indexing performance.",
+      "Updates Android Emulator compatibility.",
+      "Provides fixes for Layout Inspector, Logcat, and Profiler.",
+      "Improves Jetpack Compose tooling and previews.",
+      "Includes updated Android SDK tools.",
+      "Recommended for preview feature testing.",
+      "Not intended for production development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.3.1.5-cros.deb",
+        "size": "1.1 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.3.1.5-mac_arm.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.3.1.5-mac.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.3.1.5-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.3.1.5-linux.tar.gz",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.3.1.5-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_5"
+  },
+  {
+    "id": 53,
+    "title": "Android Studio Otter 3 Feature Drop | 2025.2.3",
+    "create_date": "January 15, 2026",
+    "description": [
+      "Official Feature Drop release of Android Studio Otter 3 (2025.2.3).",
+      "Introduces new productivity features and IDE enhancements.",
+      "Improves code editing, navigation, and refactoring tools.",
+      "Enhances Gradle synchronization and build performance.",
+      "Updates Android Emulator compatibility and SDK tools.",
+      "Provides improvements for Layout Inspector, Logcat, and Profiler.",
+      "Enhances Jetpack Compose development experience.",
+      "Includes the latest Android platform support.",
+      "Recommended for production development.",
+      "Suitable for all Android developers."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.2.3.9-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.2.3.9-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.2.3.9-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.2.3.9-windows.exe",
+        "size": "1.5 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.2.3.9-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.2.3.9-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_11"
+  },
+  {
+    "id": 54,
+    "title": "Android Studio Panda 1 | 2025.3.1 Canary 4",
+    "create_date": "January 8, 2026",
+    "description": [
+      "Introduces the fourth Canary release of Android Studio Panda 1 (2025.3.1).",
+      "Adds experimental IDE enhancements and stability improvements.",
+      "Improves project indexing and editor responsiveness.",
+      "Enhances Gradle synchronization performance.",
+      "Updates Android Emulator compatibility.",
+      "Provides fixes for Layout Inspector and Logcat.",
+      "Improves Jetpack Compose tooling.",
+      "Includes updated Android SDK tools.",
+      "Recommended for testing preview features.",
+      "Not recommended for production development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.3.1.4-cros.deb",
+        "size": "1.1 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.3.1.4-mac_arm.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.3.1.4-mac.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.3.1.4-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.3.1.4-linux.tar.gz",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.3.1.4-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_5"
+  },
+  {
+    "id": 55,
+    "title": "Android Studio Otter 3 Feature Drop | 2025.2.3 RC 3",
+    "create_date": "January 8, 2026",
+    "description": [
+      "Introduces the third Release Candidate of Android Studio Otter 3 Feature Drop (2025.2.3).",
+      "Focuses on stability improvements before the final release.",
+      "Fixes issues reported during RC testing.",
+      "Improves Gradle synchronization and build reliability.",
+      "Enhances Android Emulator compatibility.",
+      "Provides fixes for Layout Inspector, Logcat, and Profiler.",
+      "Improves Jetpack Compose tooling.",
+      "Includes updated Android SDK tools.",
+      "Recommended for validating production projects.",
+      "Nearly identical to the final stable release."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.2.3.8-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.2.3.8-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.2.3.8-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.2.3.8-windows.exe",
+        "size": "1.5 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.2.3.8-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.2.3.8-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_11"
+  },
+  {
+    "id": 56,
+    "title": "Android Studio Panda 1 | 2025.3.1 Canary 3",
+    "create_date": "January 5, 2026",
+    "description": [
+      "Introduces the third Canary release of Android Studio Panda 1 (2025.3.1).",
+      "Includes additional experimental IDE improvements.",
+      "Improves code completion and editor performance.",
+      "Enhances Gradle synchronization and indexing.",
+      "Updates Android Emulator compatibility.",
+      "Provides fixes for Layout Inspector, Logcat, and Profiler.",
+      "Improves Jetpack Compose development workflow.",
+      "Includes updated Android SDK tools.",
+      "Recommended for early feature testing.",
+      "Not intended for production development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.3.1.3-cros.deb",
+        "size": "1.1 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.3.1.3-mac_arm.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.3.1.3-mac.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.3.1.3-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.3.1.3-linux.tar.gz",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.3.1.3-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_5"
+  },
+  {
+    "id": 57,
+    "title": "Android Studio Panda 1 | 2025.3.1 Canary 2",
+    "create_date": "December 29, 2025",
+    "description": [
+      "Introduces the second Canary release of Android Studio Panda 1 (2025.3.1).",
+      "Adds experimental IDE enhancements and bug fixes.",
+      "Improves editor responsiveness and project indexing.",
+      "Enhances Gradle synchronization.",
+      "Updates Android Emulator compatibility.",
+      "Provides improvements for Logcat and Layout Inspector.",
+      "Improves Jetpack Compose previews.",
+      "Includes updated Android SDK tools.",
+      "Recommended for testing upcoming features.",
+      "Not intended for production development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.3.1.2-cros.deb",
+        "size": "1.1 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.3.1.2-mac_arm.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.3.1.2-mac.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.3.1.2-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.3.1.2-linux.tar.gz",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.3.1.2-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_5"
+  },
+  {
+    "id": 58,
+    "title": "Android Studio Otter 3 Feature Drop | 2025.2.3 RC 2",
+    "create_date": "December 29, 2025",
+    "description": [
+      "Introduces the second Release Candidate of Android Studio Otter 3 Feature Drop (2025.2.3).",
+      "Focuses on final stability improvements before release.",
+      "Fixes issues discovered during RC testing.",
+      "Improves Gradle synchronization reliability.",
+      "Updates Android Emulator compatibility.",
+      "Provides improvements for Layout Inspector, Logcat, and Profiler.",
+      "Improves Jetpack Compose tooling.",
+      "Includes updated Android SDK tools.",
+      "Recommended for production validation.",
+      "Nearly identical to the final stable release."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.2.3.7-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.2.3.7-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.2.3.7-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.2.3.7-windows.exe",
+        "size": "1.5 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.2.3.7-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.2.3.7-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_11"
+  },
+  {
+    "id": 59,
+    "title": "Android Studio Otter 2 Feature Drop | 2025.2.2 Patch 1",
+    "create_date": "December 23, 2025",
+    "description": [
+      "Delivers the first Patch release for Android Studio Otter 2 Feature Drop (2025.2.2).",
+      "Fixes issues reported after the stable release.",
+      "Improves IDE stability and build reliability.",
+      "Enhances Gradle synchronization performance.",
+      "Updates Android Emulator compatibility.",
+      "Provides fixes for Layout Inspector, Logcat, and Profiler.",
+      "Improves Jetpack Compose development tools.",
+      "Includes updated Android SDK components.",
+      "Recommended for all Otter 2 users.",
+      "Suitable for production development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.2.2.8-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.2.2.8-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.2.2.8-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.2.2.8-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.2.2.8-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.2.2.8-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_10"
+  },
+  {
+    "id": 60,
+    "title": "Android Studio Panda 1 | 2025.3.1 Canary 1",
+    "create_date": "December 19, 2025",
+    "description": [
+      "Introduces the first Canary release of Android Studio Panda 1 (2025.3.1).",
+      "Provides early access to upcoming Android Studio features.",
+      "Improves code editing and IDE responsiveness.",
+      "Enhances Gradle synchronization and project indexing.",
+      "Updates Android Emulator compatibility.",
+      "Provides improvements for Layout Inspector, Logcat, and Profiler.",
+      "Improves Jetpack Compose tooling and previews.",
+      "Includes the latest Android SDK tools.",
+      "Recommended for early feature evaluation.",
+      "Not intended for production development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.3.1.1-cros.deb",
+        "size": "1.1 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.3.1.1-mac_arm.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.3.1.1-mac.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.3.1.1-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.3.1.1-linux.tar.gz",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.3.1.1-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_5"
+  },
+  {
+    "id": 61,
+    "title": "Android Studio Otter 3 Feature Drop | 2025.2.3 RC 1",
+    "create_date": "December 18, 2025",
+    "description": [
+      "Introduces the first Release Candidate of Android Studio Otter 3 Feature Drop (2025.2.3).",
+      "Focuses on stability improvements before the final Feature Drop release.",
+      "Resolves issues identified during Canary testing.",
+      "Improves Gradle synchronization and project indexing reliability.",
+      "Enhances Android Emulator compatibility and performance.",
+      "Provides bug fixes for Layout Inspector, Logcat, and Profiler.",
+      "Improves Jetpack Compose development tools and previews.",
+      "Includes the latest Android SDK tools and platform support.",
+      "Recommended for validating production projects before stable release.",
+      "Nearly identical to the final stable Feature Drop release."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.2.3.6-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.2.3.6-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.2.3.6-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.2.3.6-windows.exe",
+        "size": "1.5 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.2.3.6-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.2.3.6-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_11"
+  },
+  {
+    "id": 62,
+    "title": "Android Studio Otter 3 Feature Drop | 2025.2.3 Canary 5",
+    "create_date": "December 11, 2025",
+    "description": [
+      "Introduces the fifth Canary release of Android Studio Otter 3 Feature Drop (2025.2.3).",
+      "Includes experimental IDE improvements and performance enhancements.",
+      "Improves code completion, navigation, and editor responsiveness.",
+      "Enhances Gradle synchronization and project indexing performance.",
+      "Updates Android Emulator compatibility and device management.",
+      "Provides fixes for Layout Inspector, Logcat, and Profiler.",
+      "Improves Jetpack Compose development workflow and preview stability.",
+      "Includes updated Android SDK tools and platform support.",
+      "Recommended for developers testing upcoming features.",
+      "Not intended for production development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.2.3.5-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.2.3.5-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.2.3.5-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.2.3.5-windows.exe",
+        "size": "1.5 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.2.3.5-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.2.3.5-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_11"
+  },
+  {
+    "id": 63,
+    "title": "Android Studio Otter 3 Feature Drop | 2025.2.3 Canary 4",
+    "create_date": "December 8, 2025",
+    "description": [
+      "Introduces the fourth Canary release of Android Studio Otter 3 Feature Drop (2025.2.3).",
+      "Adds additional experimental IDE enhancements and bug fixes.",
+      "Improves project indexing and editor responsiveness.",
+      "Enhances Gradle synchronization performance.",
+      "Updates Android Emulator compatibility.",
+      "Provides fixes for Layout Inspector, Logcat, and Profiler.",
+      "Improves Jetpack Compose tooling and previews.",
+      "Includes updated Android SDK tools.",
+      "Recommended for preview feature testing.",
+      "Not intended for production development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.2.3.4-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.2.3.4-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.2.3.4-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.2.3.4-windows.exe",
+        "size": "1.5 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.2.3.4-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.2.3.4-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_11"
+  },
+  {
+    "id": 64,
+    "title": "Android Studio Otter 2 Feature Drop | 2025.2.2",
+    "create_date": "December 4, 2025",
+    "description": [
+      "Official Feature Drop release of Android Studio Otter 2 (2025.2.2).",
+      "Introduces new IDE features and productivity improvements.",
+      "Improves code editing, navigation, and refactoring tools.",
+      "Enhances Gradle synchronization and build performance.",
+      "Updates Android Emulator compatibility and SDK tools.",
+      "Provides improvements for Layout Inspector, Logcat, and Profiler.",
+      "Improves Jetpack Compose development experience.",
+      "Includes the latest Android platform support.",
+      "Recommended for production development.",
+      "Suitable for all Android developers."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.2.2.7-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.2.2.7-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.2.2.7-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.2.2.7-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.2.2.7-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.2.2.7-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_10"
+  },
+  {
+    "id": 65,
+    "title": "Android Studio Otter 3 Feature Drop | 2025.2.3 Canary 3",
+    "create_date": "November 26, 2025",
+    "description": [
+      "Introduces the third Canary release of Android Studio Otter 3 Feature Drop (2025.2.3).",
+      "Includes experimental IDE enhancements and stability improvements.",
+      "Improves editor responsiveness and project indexing.",
+      "Enhances Gradle synchronization performance.",
+      "Updates Android Emulator compatibility.",
+      "Provides fixes for Layout Inspector, Logcat, and Profiler.",
+      "Improves Jetpack Compose tooling and previews.",
+      "Includes updated Android SDK tools.",
+      "Recommended for early feature testing.",
+      "Not intended for production development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.2.3.3-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.2.3.3-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.2.3.3-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.2.3.3-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.2.3.3-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.2.3.3-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_11"
+  },
+  {
+    "id": 66,
+    "title": "Android Studio Otter 2 Feature Drop | 2025.2.2 RC 2",
+    "create_date": "November 21, 2025",
+    "description": [
+      "Introduces the second Release Candidate of Android Studio Otter 2 Feature Drop (2025.2.2).",
+      "Focuses on stability improvements before the final release.",
+      "Fixes issues discovered during testing.",
+      "Improves Gradle synchronization and build reliability.",
+      "Enhances Android Emulator compatibility.",
+      "Provides fixes for Layout Inspector, Logcat, and Profiler.",
+      "Improves Jetpack Compose development tools.",
+      "Includes updated Android SDK tools.",
+      "Recommended for validating production projects.",
+      "Nearly identical to the final stable release."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.2.2.6-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.2.2.6-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.2.2.6-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.2.2.6-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.2.2.6-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.2.2.6-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_10"
+  },
+  {
+    "id": 67,
+    "title": "Android Studio Otter 3 Feature Drop | 2025.2.3 Canary 2",
+    "create_date": "November 21, 2025",
+    "description": [
+      "Introduces the second Canary release of Android Studio Otter 3 Feature Drop (2025.2.3).",
+      "Adds experimental IDE enhancements and performance improvements.",
+      "Improves code completion and navigation.",
+      "Enhances Gradle synchronization and indexing.",
+      "Updates Android Emulator compatibility.",
+      "Provides fixes for Layout Inspector, Logcat, and Profiler.",
+      "Improves Jetpack Compose previews and tooling.",
+      "Includes updated Android SDK tools.",
+      "Recommended for preview feature testing.",
+      "Not intended for production development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.2.3.2-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.2.3.2-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.2.3.2-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.2.3.2-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.2.3.2-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.2.3.2-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_11"
+  },
+  {
+    "id": 68,
+    "title": "Android Studio Otter | 2025.2.1 Patch 1",
+    "create_date": "November 17, 2025",
+    "description": [
+      "Delivers the first Patch release for Android Studio Otter (2025.2.1).",
+      "Fixes issues reported after the stable release.",
+      "Improves IDE stability and performance.",
+      "Enhances Gradle synchronization reliability.",
+      "Updates Android Emulator compatibility.",
+      "Provides fixes for Layout Inspector, Logcat, and Profiler.",
+      "Improves Jetpack Compose development tools.",
+      "Includes updated Android SDK components.",
+      "Recommended for all Otter users.",
+      "Suitable for production development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.2.1.8-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.2.1.8-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.2.1.8-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.2.1.8-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.2.1.8-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.2.1.8-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_9"
+  },
+  {
+    "id": 69,
+    "title": "Android Studio Otter 3 Feature Drop | 2025.2.3 Canary 1",
+    "create_date": "November 13, 2025",
+    "description": [
+      "Introduces the first Canary release of Android Studio Otter 3 Feature Drop (2025.2.3).",
+      "Provides early access to upcoming IDE features.",
+      "Improves code editing, navigation, and responsiveness.",
+      "Enhances Gradle synchronization and project indexing.",
+      "Updates Android Emulator compatibility.",
+      "Provides improvements for Layout Inspector, Logcat, and Profiler.",
+      "Improves Jetpack Compose development workflow.",
+      "Includes the latest Android SDK tools.",
+      "Recommended for early feature evaluation.",
+      "Not intended for production development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.2.3.1-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.2.3.1-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.2.3.1-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.2.3.1-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.2.3.1-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.2.3.1-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_11"
+  },
+  {
+    "id": 70,
+    "title": "Android Studio Otter 2 Feature Drop | 2025.2.2 RC 1",
+    "create_date": "November 13, 2025",
+    "description": [
+      "Introduces the first Release Candidate of Android Studio Otter 2 Feature Drop (2025.2.2).",
+      "Focuses on stability improvements before the stable release.",
+      "Resolves issues identified during Canary testing.",
+      "Improves Gradle synchronization and project indexing reliability.",
+      "Enhances Android Emulator compatibility.",
+      "Provides fixes for Layout Inspector, Logcat, and Profiler.",
+      "Improves Jetpack Compose development tools and previews.",
+      "Includes the latest Android SDK tools.",
+      "Recommended for validating production projects.",
+      "Nearly identical to the final stable release."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.2.2.5-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.2.2.5-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.2.2.5-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.2.2.5-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.2.2.5-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.2.2.5-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_10"
+  },
+  {
+    "id": 71,
+    "title": "Android Studio Otter 2 Feature Drop | 2025.2.2 Canary 4",
+    "create_date": "November 6, 2025",
+    "description": [
+      "Introduces the fourth Canary release of Android Studio Otter 2 Feature Drop (2025.2.2).",
+      "Includes the latest experimental IDE improvements and developer tooling.",
+      "Improves code editing performance and navigation across large projects.",
+      "Enhances Gradle synchronization and project indexing speed.",
+      "Updates Android Emulator compatibility and device management.",
+      "Provides fixes for Layout Inspector, Logcat, and Profiler.",
+      "Improves Jetpack Compose development and preview stability.",
+      "Includes the latest Android SDK tools and platform updates.",
+      "Designed for developers who want to test upcoming Android Studio features.",
+      "Not recommended for production development due to experimental changes."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.2.2.4-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.2.2.4-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.2.2.4-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.2.2.4-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.2.2.4-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.2.2.4-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_10"
+  },
+  {
+    "id": 72,
+    "title": "Android Studio Otter | 2025.2.1",
+    "create_date": "October 30, 2025",
+    "description": [
+      "Stable release of Android Studio Otter (2025.2.1).",
+      "Delivers performance improvements and enhanced development tools.",
+      "Improves editor responsiveness and code completion.",
+      "Enhances Gradle build performance and project synchronization.",
+      "Updates Android Emulator and SDK components.",
+      "Provides fixes for Layout Inspector, Logcat, and Profiler.",
+      "Improves Jetpack Compose tooling and preview reliability.",
+      "Includes the latest Android SDK platform support.",
+      "Recommended for everyday Android application development.",
+      "Suitable for production projects."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.2.1.7-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.2.1.7-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.2.1.7-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.2.1.7-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.2.1.7-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.2.1.7-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_9"
+  },
+  {
+    "id": 73,
+    "title": "Android Studio Otter 2 Feature Drop | 2025.2.2 Canary 3",
+    "create_date": "October 30, 2025",
+    "description": [
+      "Third Canary release of Android Studio Otter 2 Feature Drop.",
+      "Introduces additional experimental IDE enhancements.",
+      "Improves code analysis and editor responsiveness.",
+      "Enhances Gradle synchronization and indexing.",
+      "Updates Emulator compatibility and device tools.",
+      "Includes bug fixes for developer productivity.",
+      "Improves Jetpack Compose tooling.",
+      "Bundles updated Android SDK components.",
+      "Intended for testing new Android Studio capabilities.",
+      "Not recommended for production use."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.2.2.3-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.2.2.3-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.2.2.3-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.2.2.3-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.2.2.3-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.2.2.3-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_10"
+  },
+  {
+    "id": 74,
+    "title": "Android Studio Otter 2 Feature Drop | 2025.2.2 Canary 2",
+    "create_date": "October 28, 2025",
+    "description": [
+      "Second Canary release of Android Studio Otter 2 Feature Drop.",
+      "Continues development of upcoming IDE improvements.",
+      "Enhances editor performance and project navigation.",
+      "Improves Gradle synchronization.",
+      "Updates Android Emulator support.",
+      "Provides IDE bug fixes and stability improvements.",
+      "Improves Compose development tools.",
+      "Includes updated SDK utilities.",
+      "Recommended for testing only.",
+      "Not intended for production projects."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.2.2.2-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.2.2.2-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.2.2.2-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.2.2.2-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.2.2.2-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.2.2.2-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_10"
+  },
+  {
+    "id": 75,
+    "title": "Android Studio Otter 2 Feature Drop | 2025.2.2 Canary 1",
+    "create_date": "October 16, 2025",
+    "description": [
+      "First Canary release of Android Studio Otter 2 Feature Drop.",
+      "Introduces early preview features for the next IDE update.",
+      "Improves code editing experience.",
+      "Enhances Gradle project synchronization.",
+      "Updates Android Emulator integration.",
+      "Adds stability fixes for IDE components.",
+      "Improves Jetpack Compose support.",
+      "Includes updated SDK tools.",
+      "Recommended for early testing.",
+      "Not suitable for production environments."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.2.2.1-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.2.2.1-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.2.2.1-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.2.2.1-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.2.2.1-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.2.2.1-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_10"
+  },
+  {
+    "id": 76,
+    "title": "Android Studio Otter | 2025.2.1 RC 1",
+    "create_date": "October 16, 2025",
+    "description": [
+      "First Release Candidate for Android Studio Otter 2025.2.1.",
+      "Focuses on stability before the final stable release.",
+      "Fixes bugs reported during Canary testing.",
+      "Improves build performance.",
+      "Enhances IDE reliability.",
+      "Updates Android Emulator support.",
+      "Improves Compose tooling.",
+      "Bundles updated SDK components.",
+      "Suitable for evaluating the upcoming stable release.",
+      "Near-production quality."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.2.1.6-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.2.1.6-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.2.1.6-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.2.1.6-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.2.1.6-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.2.1.6-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_9"
+  },
+  {
+    "id": 77,
+    "title": "Android Studio Otter | 2025.2.1 Canary 5",
+    "create_date": "October 9, 2025",
+    "description": [
+      "Fifth Canary release of Android Studio Otter.",
+      "Adds new experimental IDE improvements.",
+      "Improves code completion and navigation.",
+      "Enhances Gradle build performance.",
+      "Updates Android Emulator compatibility.",
+      "Improves Compose tooling.",
+      "Includes SDK updates.",
+      "Provides stability improvements.",
+      "For early feature testing.",
+      "Not recommended for production."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.2.1.5-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.2.1.5-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.2.1.5-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.2.1.5-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.2.1.5-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.2.1.5-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_9"
+  },
+  {
+    "id": 78,
+    "title": "Android Studio Narwhal 4 Feature Drop | 2025.1.4",
+    "create_date": "October 9, 2025",
+    "description": [
+      "Stable Feature Drop release of Android Studio Narwhal 4.",
+      "Introduces new IDE capabilities and performance improvements.",
+      "Enhances Gradle synchronization.",
+      "Improves Android Emulator support.",
+      "Provides fixes across IDE components.",
+      "Improves Compose development experience.",
+      "Updates Android SDK tools.",
+      "Optimizes indexing and navigation.",
+      "Recommended for production development.",
+      "Stable release for all developers."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.1.4.8-cros.deb",
+        "size": "1.1 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.1.4.8-mac_arm.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.1.4.8-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.4.8-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.1.4.8-linux.tar.gz",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.4.8-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_14"
+  },
+  {
+    "id": 79,
+    "title": "Android Studio Otter | 2025.2.1 Canary 4",
+    "create_date": "October 2, 2025",
+    "description": [
+      "Fourth Canary release of Android Studio Otter.",
+      "Adds new experimental IDE improvements.",
+      "Enhances code editing performance.",
+      "Improves Gradle synchronization.",
+      "Updates Android Emulator integration.",
+      "Provides Compose tooling enhancements.",
+      "Includes SDK updates.",
+      "Fixes IDE bugs.",
+      "Recommended for feature evaluation.",
+      "Not intended for production use."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.2.1.4-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.2.1.4-mac_arm.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.2.1.4-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.2.1.4-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.2.1.4-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.2.1.4-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_9"
+  },
+  {
+    "id": 80,
+    "title": "Android Studio Narwhal 4 Feature Drop | 2025.1.4 RC 2",
+    "create_date": "September 29, 2025",
+    "description": [
+      "Second Release Candidate for Android Studio Narwhal 4 Feature Drop.",
+      "Focuses on stability before the final release.",
+      "Includes bug fixes from beta testing.",
+      "Improves IDE reliability.",
+      "Enhances Gradle synchronization.",
+      "Updates Android Emulator support.",
+      "Improves Compose tooling.",
+      "Bundles latest SDK updates.",
+      "Recommended for testing the upcoming stable release.",
+      "Near-production quality."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.1.4.7-cros.deb",
+        "size": "1.1 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.1.4.7-mac_arm.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.1.4.7-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.4.7-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.1.4.7-linux.tar.gz",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.4.7-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_14"
+  },
+  {
+    "id": 81,
+    "title": "Android Studio Otter | 2025.2.1 Canary 3",
+    "create_date": "September 26, 2025",
+    "description": [
+      "Third Canary release of Android Studio Otter (2025.2.1).",
+      "Introduces additional experimental IDE improvements and developer tools.",
+      "Improves code completion, navigation, and editor responsiveness.",
+      "Enhances Gradle synchronization and project indexing.",
+      "Updates Android Emulator compatibility and device management.",
+      "Provides fixes for Layout Inspector, Logcat, and Profiler.",
+      "Improves Jetpack Compose development experience.",
+      "Includes updated Android SDK tools and platform support.",
+      "Recommended for testing upcoming Android Studio features.",
+      "Not recommended for production development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.2.1.3-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.2.1.3-mac_arm.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.2.1.3-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.2.1.3-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.2.1.3-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.2.1.3-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_9"
+  },
+  {
+    "id": 82,
+    "title": "Android Studio Narwhal 4 Feature Drop | 2025.1.4 RC 1",
+    "create_date": "September 24, 2025",
+    "description": [
+      "First Release Candidate for Android Studio Narwhal 4 Feature Drop.",
+      "Focuses on stability before the final stable release.",
+      "Includes fixes based on Canary testing feedback.",
+      "Improves IDE responsiveness and build performance.",
+      "Enhances Gradle synchronization and project indexing.",
+      "Updates Android Emulator compatibility.",
+      "Improves Jetpack Compose tooling.",
+      "Includes updated Android SDK tools.",
+      "Suitable for evaluating the upcoming stable release.",
+      "Near-production quality."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.1.4.6-cros.deb",
+        "size": "1.1 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.1.4.6-mac_arm.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.1.4.6-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.4.6-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.1.4.6-linux.tar.gz",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.4.6-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_14"
+  },
+  {
+    "id": 83,
+    "title": "Android Studio Otter | 2025.2.1 Canary 2",
+    "create_date": "September 25, 2025",
+    "description": [
+      "Second Canary release of Android Studio Otter (2025.2.1).",
+      "Adds experimental IDE improvements and performance enhancements.",
+      "Improves code editing and project navigation.",
+      "Enhances Gradle synchronization.",
+      "Updates Android Emulator integration.",
+      "Includes IDE stability fixes.",
+      "Improves Compose development tools.",
+      "Bundles updated Android SDK components.",
+      "Recommended for testing only.",
+      "Not intended for production projects."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.2.1.2-cros.deb",
+        "size": "1.1 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.2.1.2-mac_arm.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.2.1.2-mac.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.2.1.2-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.2.1.2-linux.tar.gz",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.2.1.2-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_9"
+  },
+  {
+    "id": 84,
+    "title": "Android Studio Otter | 2025.2.1 Canary 1",
+    "create_date": "September 22, 2025",
+    "description": [
+      "First Canary release of Android Studio Otter (2025.2.1).",
+      "Introduces early preview features for the next IDE release.",
+      "Improves editor responsiveness and code completion.",
+      "Enhances Gradle synchronization.",
+      "Updates Android Emulator support.",
+      "Provides IDE stability improvements.",
+      "Improves Jetpack Compose tooling.",
+      "Includes updated Android SDK tools.",
+      "Designed for early testing.",
+      "Not recommended for production development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.2.1.1-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.2.1.1-mac_arm.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.2.1.1-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.2.1.1-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.2.1.1-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.2.1.1-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_9"
+  },
+  {
+    "id": 85,
+    "title": "Android Studio Narwhal 4 Feature Drop | 2025.1.4 Canary 5",
+    "create_date": "September 11, 2025",
+    "description": [
+      "Fifth Canary release of Android Studio Narwhal 4 Feature Drop.",
+      "Adds new experimental IDE improvements.",
+      "Improves editor performance and navigation.",
+      "Enhances Gradle synchronization.",
+      "Updates Android Emulator compatibility.",
+      "Provides Compose tooling improvements.",
+      "Includes updated Android SDK components.",
+      "Contains stability and bug fixes.",
+      "Recommended for testing new features.",
+      "Not suitable for production use."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.1.4.5-cros.deb",
+        "size": "1.1 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.1.4.5-mac_arm.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.1.4.5-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.4.5-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.1.4.5-linux.tar.gz",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.4.5-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_14"
+  },
+  {
+    "id": 86,
+    "title": "Android Studio Narwhal 4 Feature Drop | 2025.1.4 Canary 4",
+    "create_date": "September 4, 2025",
+    "description": [
+      "Fourth Canary release of Android Studio Narwhal 4 Feature Drop.",
+      "Continues development of new IDE capabilities.",
+      "Improves code editing and navigation.",
+      "Enhances Gradle synchronization.",
+      "Updates Android Emulator support.",
+      "Includes IDE bug fixes.",
+      "Improves Compose development tools.",
+      "Bundles updated SDK utilities.",
+      "Recommended for testing.",
+      "Not intended for production."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.1.4.4-cros.deb",
+        "size": "1.1 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.1.4.4-mac_arm.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.1.4.4-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.4.4-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.1.4.4-linux.tar.gz",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.4.4-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_14"
+  },
+  {
+    "id": 87,
+    "title": "Android Studio Narwhal 3 Feature Drop | 2025.1.3",
+    "create_date": "September 2, 2025",
+    "description": [
+      "Stable release of Android Studio Narwhal 3 Feature Drop.",
+      "Delivers performance improvements and enhanced developer tools.",
+      "Improves editor responsiveness and navigation.",
+      "Enhances Gradle synchronization.",
+      "Updates Android Emulator compatibility.",
+      "Provides IDE bug fixes and stability improvements.",
+      "Improves Compose tooling.",
+      "Includes updated Android SDK support.",
+      "Recommended for production development.",
+      "Suitable for everyday Android app development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.1.3.7-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.1.3.7-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.1.3.7-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.3.7-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.1.3.7-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.3.7-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_13"
+  },
+  {
+    "id": 88,
+    "title": "Android Studio Narwhal 4 Feature Drop | 2025.1.4 Canary 3",
+    "create_date": "August 29, 2025",
+    "description": [
+      "Third Canary release of Android Studio Narwhal 4 Feature Drop.",
+      "Introduces additional experimental IDE improvements.",
+      "Improves editor performance and project navigation.",
+      "Enhances Gradle synchronization.",
+      "Updates Android Emulator integration.",
+      "Provides IDE bug fixes.",
+      "Improves Compose development experience.",
+      "Includes updated Android SDK tools.",
+      "Recommended for testing.",
+      "Not intended for production use."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.1.4.3-cros.deb",
+        "size": "1.1 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.1.4.3-mac_arm.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.1.4.3-mac.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.4.3-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.1.4.3-linux.tar.gz",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.4.3-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_14"
+  },
+  {
+    "id": 89,
+    "title": "Android Studio Narwhal 3 Feature Drop | 2025.1.3 RC 2",
+    "create_date": "August 28, 2025",
+    "description": [
+      "Second Release Candidate for Android Studio Narwhal 3 Feature Drop.",
+      "Focuses on stability before the final release.",
+      "Includes fixes from beta testing.",
+      "Improves IDE reliability.",
+      "Enhances Gradle synchronization.",
+      "Updates Android Emulator support.",
+      "Improves Compose tooling.",
+      "Bundles updated Android SDK tools.",
+      "Recommended for testing the upcoming stable release.",
+      "Near-production quality."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.1.3.6-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.1.3.6-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.1.3.6-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.3.6-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.1.3.6-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.3.6-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_13"
+  },
+  {
+    "id": 90,
+    "title": "Android Studio Narwhal Feature Drop | 2025.1.2 Patch 2",
+    "create_date": "August 28, 2025",
+    "description": [
+      "Second Patch release for Android Studio Narwhal Feature Drop (2025.1.2).",
+      "Focuses on stability, bug fixes, and reliability improvements.",
+      "Resolves known IDE issues reported by developers.",
+      "Improves Gradle synchronization and build performance.",
+      "Enhances Android Emulator compatibility.",
+      "Provides fixes for Layout Inspector, Logcat, and Profiler.",
+      "Includes updated Android SDK tools.",
+      "Maintains compatibility with the latest Android platform updates.",
+      "Recommended for all developers using the 2025.1.2 release.",
+      "Suitable for production development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.1.2.13-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.1.2.13-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.1.2.13-mac.dmg",
+        "size": "1.6 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.2.13-windows.exe",
+        "size": "1.5 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.1.2.13-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.2.13-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_12"
+  },
+  {
+    "id": 91,
+    "title": "Android Studio Narwhal 4 Feature Drop | 2025.1.4 Canary 2",
+    "create_date": "August 21, 2025",
+    "description": [
+      "Second Canary release of Android Studio Narwhal 4 Feature Drop.",
+      "Introduces additional experimental IDE improvements and developer tools.",
+      "Improves code completion, navigation, and editor responsiveness.",
+      "Enhances Gradle synchronization and project indexing.",
+      "Updates Android Emulator compatibility and device management.",
+      "Provides fixes for Layout Inspector, Logcat, and Profiler.",
+      "Improves Jetpack Compose development experience.",
+      "Includes updated Android SDK tools and platform support.",
+      "Recommended for testing upcoming Android Studio features.",
+      "Not recommended for production development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.1.4.2-cros.deb",
+        "size": "1.1 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.1.4.2-mac_arm.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.1.4.2-mac.dmg",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.4.2-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.1.4.2-linux.tar.gz",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.4.2-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_14"
+  },
+  {
+    "id": 92,
+    "title": "Android Studio Narwhal Feature Drop | 2025.1.2 Patch 1",
+    "create_date": "August 18, 2025",
+    "description": [
+      "First Patch release for Android Studio Narwhal Feature Drop (2025.1.2).",
+      "Focuses on stability, bug fixes, and reliability improvements.",
+      "Resolves known IDE issues reported by developers.",
+      "Improves Gradle synchronization and build performance.",
+      "Enhances Android Emulator compatibility.",
+      "Provides fixes for Layout Inspector, Logcat, and Profiler.",
+      "Includes updated Android SDK tools.",
+      "Maintains compatibility with the latest Android platform updates.",
+      "Recommended for all developers using the 2025.1.2 release.",
+      "Suitable for production development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.1.2.12-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.1.2.12-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.1.2.12-mac.dmg",
+        "size": "1.6 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.2.12-windows.exe",
+        "size": "1.5 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.1.2.12-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.2.12-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_12"
+  },
+  {
+    "id": 93,
+    "title": "Android Studio Narwhal 4 Feature Drop | 2025.1.4 Canary 1",
+    "create_date": "August 14, 2025",
+    "description": [
+      "First Canary release of Android Studio Narwhal 4 Feature Drop.",
+      "Introduces early preview features for the next IDE update.",
+      "Improves editor responsiveness and code completion.",
+      "Enhances Gradle synchronization and indexing.",
+      "Updates Android Emulator compatibility.",
+      "Provides IDE stability improvements.",
+      "Improves Jetpack Compose development experience.",
+      "Includes updated Android SDK tools.",
+      "Designed for early testing.",
+      "Not recommended for production development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.1.4.1-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.1.4.1-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.1.4.1-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.4.1-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.1.4.1-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.4.1-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_14"
+  },
+  {
+    "id": 94,
+    "title": "Android Studio Narwhal 3 Feature Drop | 2025.1.3 RC 1",
+    "create_date": "August 14, 2025",
+    "description": [
+      "First Release Candidate for Android Studio Narwhal 3 Feature Drop.",
+      "Focuses on stability before the final stable release.",
+      "Includes fixes based on Canary testing feedback.",
+      "Improves IDE responsiveness and build performance.",
+      "Enhances Gradle synchronization and project indexing.",
+      "Updates Android Emulator compatibility.",
+      "Improves Jetpack Compose tooling.",
+      "Includes updated Android SDK tools.",
+      "Suitable for evaluating the upcoming stable release.",
+      "Near-production quality."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.1.3.5-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.1.3.5-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.1.3.5-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.3.5-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.1.3.5-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.3.5-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_13"
+  },
+  {
+    "id": 95,
+    "title": "Android Studio Narwhal 3 Feature Drop | 2025.1.3 Canary 4",
+    "create_date": "August 7, 2025",
+    "description": [
+      "Fourth Canary release of Android Studio Narwhal 3 Feature Drop.",
+      "Introduces new experimental IDE improvements.",
+      "Improves code editing and navigation.",
+      "Enhances Gradle synchronization.",
+      "Updates Android Emulator support.",
+      "Provides IDE stability fixes.",
+      "Improves Jetpack Compose tooling.",
+      "Includes updated Android SDK utilities.",
+      "Recommended for testing.",
+      "Not intended for production use."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.1.3.4-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.1.3.4-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.1.3.4-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.3.4-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.1.3.4-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.3.4-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_13"
+  },
+  {
+    "id": 96,
+    "title": "Android Studio Narwhal Feature Drop | 2025.1.3 Canary 3",
+    "create_date": "July 31, 2025",
+    "description": [
+      "Third Canary release of Android Studio Narwhal Feature Drop (2025.1.3).",
+      "Introduces additional experimental IDE improvements.",
+      "Improves editor performance and code navigation.",
+      "Enhances Gradle synchronization.",
+      "Updates Android Emulator compatibility.",
+      "Provides IDE bug fixes.",
+      "Improves Jetpack Compose development experience.",
+      "Includes updated Android SDK tools.",
+      "Recommended for testing upcoming features.",
+      "Not intended for production development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.1.3.3-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.1.3.3-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.1.3.3-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.3.3-windows.exe",
+        "size": "1.4 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.1.3.3-linux.tar.gz",
+        "size": "1.4 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.3.3-windows.zip",
+        "size": "1.4 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_12"
+  },
+  {
+    "id": 97,
+    "title": "Android Studio Narwhal Feature Drop | 2025.1.2",
+    "create_date": "July 31, 2025",
+    "description": [
+      "Stable release of Android Studio Narwhal Feature Drop (2025.1.2).",
+      "Delivers performance improvements and enhanced development tools.",
+      "Improves code completion and editor responsiveness.",
+      "Enhances Gradle synchronization and build performance.",
+      "Updates Android Emulator and SDK tools.",
+      "Provides IDE bug fixes and stability improvements.",
+      "Improves Jetpack Compose development experience.",
+      "Supports the latest Android platform updates.",
+      "Recommended for production development.",
+      "Suitable for everyday Android application development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.1.2.11-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.1.2.11-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.1.2.11-mac.dmg",
+        "size": "1.6 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.2.11-windows.exe",
+        "size": "1.5 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.1.2.11-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.2.11-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_12"
+  },
+  {
+    "id": 98,
+    "title": "Android Studio Narwhal Feature Drop | 2025.1.3 Canary 2",
+    "create_date": "July 24, 2025",
+    "description": [
+      "Second Canary release of Android Studio Narwhal Feature Drop (2025.1.3).",
+      "Introduces additional experimental IDE enhancements.",
+      "Improves editor responsiveness and code analysis.",
+      "Enhances Gradle synchronization and indexing.",
+      "Updates Android Emulator compatibility.",
+      "Provides stability improvements across IDE components.",
+      "Improves Jetpack Compose tooling.",
+      "Includes updated Android SDK utilities.",
+      "Recommended for testing.",
+      "Not intended for production use."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.1.3.2-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.1.3.2-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.1.3.2-mac.dmg",
+        "size": "1.6 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.3.2-windows.exe",
+        "size": "1.5 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.1.3.2-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.3.2-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_12"
+  },
+  {
+    "id": 99,
+    "title": "Android Studio Narwhal Feature Drop | 2025.1.3 Canary 1",
+    "create_date": "July 21, 2025",
+    "description": [
+      "First Canary release of Android Studio Narwhal Feature Drop (2025.1.3).",
+      "Introduces early preview features for the next IDE release.",
+      "Improves code completion and editor responsiveness.",
+      "Enhances Gradle synchronization and indexing.",
+      "Updates Android Emulator compatibility.",
+      "Provides IDE stability improvements.",
+      "Improves Jetpack Compose development experience.",
+      "Includes updated Android SDK tools.",
+      "Designed for early testing.",
+      "Not recommended for production development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.1.3.1-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.1.3.1-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.1.3.1-mac.dmg",
+        "size": "1.6 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.3.1-windows.exe",
+        "size": "1.5 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.1.3.1-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.3.1-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_12"
+  },
+  {
+    "id": 100,
+    "title": "Android Studio Narwhal Feature Drop | 2025.1.2 RC 1",
+    "create_date": "July 18, 2025",
+    "description": [
+      "First Release Candidate for Android Studio Narwhal Feature Drop (2025.1.2).",
+      "Focuses on stability before the final release.",
+      "Includes fixes based on beta testing.",
+      "Improves IDE responsiveness and reliability.",
+      "Enhances Gradle synchronization and build performance.",
+      "Updates Android Emulator compatibility.",
+      "Improves Jetpack Compose tooling.",
+      "Includes updated Android SDK components.",
+      "Suitable for evaluating the upcoming stable release.",
+      "Near-production quality."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.1.2.10-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.1.2.10-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.1.2.10-mac.dmg",
+        "size": "1.6 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.2.10-windows.exe",
+        "size": "1.5 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.1.2.10-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.2.10-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_12"
+  },
+  {
+    "id": 101,
+    "title": "Android Studio Narwhal Feature Drop | 2025.1.2 Canary 9",
+    "create_date": "July 14, 2025",
+    "description": [
+      "Ninth Canary release of Android Studio Narwhal Feature Drop (2025.1.2).",
+      "Introduces the latest experimental IDE improvements and developer tools.",
+      "Improves code completion, navigation, and editor responsiveness.",
+      "Enhances Gradle synchronization and project indexing performance.",
+      "Updates Android Emulator compatibility and device management tools.",
+      "Provides bug fixes for Layout Inspector, Logcat, and Profiler.",
+      "Improves Jetpack Compose development experience and preview stability.",
+      "Includes updated Android SDK tools and platform support.",
+      "Recommended for developers testing upcoming Android Studio features.",
+      "Not recommended for production development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.1.2.9-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.1.2.9-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.1.2.9-mac.dmg",
+        "size": "1.6 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.2.9-windows.exe",
+        "size": "1.5 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.1.2.9-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.2.9-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_12"
+  },
+  {
+    "id": 102,
+    "title": "Android Studio Narwhal | 2025.1.1 Patch 1",
+    "create_date": "July 10, 2025",
+    "description": [
+      "First Patch release of Android Studio Narwhal (2025.1.1).",
+      "Focuses on stability, reliability, and bug fixes.",
+      "Improves Gradle synchronization and build performance.",
+      "Enhances Android Emulator compatibility.",
+      "Provides fixes for Layout Inspector, Logcat, and Profiler.",
+      "Improves IDE responsiveness and code navigation.",
+      "Includes updated Android SDK tools.",
+      "Maintains compatibility with the latest Android platform updates.",
+      "Recommended for all developers using the 2025.1.1 release.",
+      "Suitable for production development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.1.1.14-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.1.1.14-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.1.1.14-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.1.14-windows.exe",
+        "size": "1.5 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.1.1.14-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.1.14-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_12"
+  },
+  {
+    "id": 103,
+    "title": "Android Studio Narwhal Feature Drop | 2025.1.2 Canary 8",
+    "create_date": "July 2, 2025",
+    "description": [
+      "Eighth Canary release of Android Studio Narwhal Feature Drop (2025.1.2).",
+      "Introduces additional experimental IDE enhancements.",
+      "Improves editor responsiveness and project navigation.",
+      "Enhances Gradle synchronization and indexing.",
+      "Updates Android Emulator compatibility.",
+      "Provides IDE bug fixes and stability improvements.",
+      "Improves Jetpack Compose tooling.",
+      "Includes updated Android SDK utilities.",
+      "Recommended for early testing.",
+      "Not intended for production development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.1.2.8-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.1.2.8-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.1.2.8-mac.dmg",
+        "size": "1.6 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.2.8-windows.exe",
+        "size": "1.5 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.1.2.8-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.2.8-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_12"
+  },
+  {
+    "id": 104,
+    "title": "Android Studio Narwhal Feature Drop | 2025.1.2 Canary 7",
+    "create_date": "June 26, 2025",
+    "description": [
+      "Seventh Canary release of Android Studio Narwhal Feature Drop (2025.1.2).",
+      "Continues development of upcoming IDE features.",
+      "Improves code editing and navigation.",
+      "Enhances Gradle synchronization.",
+      "Updates Android Emulator compatibility.",
+      "Provides IDE stability improvements.",
+      "Improves Compose development tools.",
+      "Includes updated Android SDK components.",
+      "Recommended for testing.",
+      "Not suitable for production environments."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.1.2.7-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.1.2.7-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.1.2.7-mac.dmg",
+        "size": "1.6 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.2.7-windows.exe",
+        "size": "1.5 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.1.2.7-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.2.7-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_12"
+  },
+  {
+    "id": 105,
+    "title": "Android Studio Narwhal | 2025.1.1",
+    "create_date": "June 24, 2025",
+    "description": [
+      "Stable release of Android Studio Narwhal (2025.1.1).",
+      "Delivers performance improvements and enhanced developer tools.",
+      "Improves editor responsiveness and code completion.",
+      "Enhances Gradle synchronization and build performance.",
+      "Updates Android Emulator and SDK tools.",
+      "Provides IDE bug fixes and stability improvements.",
+      "Improves Jetpack Compose development experience.",
+      "Supports the latest Android platform updates.",
+      "Recommended for production development.",
+      "Suitable for everyday Android app development."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.1.1.13-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.1.1.13-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.1.1.13-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.1.13-windows.exe",
+        "size": "1.5 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.1.1.13-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.1.13-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_12"
+  },
+  {
+    "id": 106,
+    "title": "Android Studio Narwhal Feature Drop | 2025.1.2 Canary 6",
+    "create_date": "June 20, 2025",
+    "description": [
+      "Sixth Canary release of Android Studio Narwhal Feature Drop (2025.1.2).",
+      "Introduces additional experimental IDE enhancements.",
+      "Improves editor performance and navigation.",
+      "Enhances Gradle synchronization.",
+      "Updates Android Emulator compatibility.",
+      "Provides IDE bug fixes.",
+      "Improves Jetpack Compose tooling.",
+      "Includes updated Android SDK utilities.",
+      "Recommended for testing upcoming features.",
+      "Not intended for production use."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.1.2.6-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.1.2.6-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.1.2.6-mac.dmg",
+        "size": "1.6 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.2.6-windows.exe",
+        "size": "1.5 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.1.2.6-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.2.6-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_12"
+  },
+  {
+    "id": 107,
+    "title": "Android Studio Narwhal Feature Drop | 2025.1.2 Canary 5",
+    "create_date": "June 13, 2025",
+    "description": [
+      "Fifth Canary release of Android Studio Narwhal Feature Drop (2025.1.2).",
+      "Introduces new experimental IDE improvements.",
+      "Improves editor responsiveness and navigation.",
+      "Enhances Gradle synchronization.",
+      "Updates Android Emulator support.",
+      "Provides IDE stability improvements.",
+      "Improves Compose development experience.",
+      "Includes updated Android SDK tools.",
+      "Recommended for early testing.",
+      "Not suitable for production."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.1.2.5-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.1.2.5-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.1.2.5-mac.dmg",
+        "size": "1.6 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.2.5-windows.exe",
+        "size": "1.5 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.1.2.5-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.2.5-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_12"
+  },
+  {
+    "id": 108,
+    "title": "Android Studio Narwhal | 2025.1.1 RC 2",
+    "create_date": "June 12, 2025",
+    "description": [
+      "Second Release Candidate for Android Studio Narwhal (2025.1.1).",
+      "Focuses on stability before the final stable release.",
+      "Includes fixes from beta testing.",
+      "Improves IDE responsiveness and reliability.",
+      "Enhances Gradle synchronization.",
+      "Updates Android Emulator compatibility.",
+      "Improves Jetpack Compose tooling.",
+      "Includes updated Android SDK components.",
+      "Suitable for evaluating the upcoming stable release.",
+      "Near-production quality."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.1.1.12-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.1.1.12-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.1.1.12-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.1.12-windows.exe",
+        "size": "1.5 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.1.1.12-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.1.12-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_12"
+  },
+  {
+    "id": 109,
+    "title": "Android Studio Narwhal Feature Drop | 2025.1.2 Canary 4",
+    "create_date": "June 6, 2025",
+    "description": [
+      "Fourth Canary release of Android Studio Narwhal Feature Drop (2025.1.2).",
+      "Introduces additional experimental IDE improvements.",
+      "Improves code completion and project navigation.",
+      "Enhances Gradle synchronization.",
+      "Updates Android Emulator compatibility.",
+      "Provides IDE stability improvements.",
+      "Improves Jetpack Compose tooling.",
+      "Includes updated Android SDK utilities.",
+      "Recommended for testing upcoming features.",
+      "Not intended for production use."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.1.2.4-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.1.2.4-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.1.2.4-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.2.4-windows.exe",
+        "size": "1.5 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.1.2.4-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.2.4-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_12"
+  },
+  {
+    "id": 110,
+    "title": "Android Studio Narwhal | 2025.1.1 RC 1",
+    "create_date": "June 3, 2025",
+    "description": [
+      "First Release Candidate for Android Studio Narwhal (2025.1.1).",
+      "Focuses on stability before the final release.",
+      "Includes fixes based on Canary testing feedback.",
+      "Improves IDE responsiveness and build performance.",
+      "Enhances Gradle synchronization.",
+      "Updates Android Emulator compatibility.",
+      "Improves Jetpack Compose development experience.",
+      "Includes updated Android SDK tools.",
+      "Suitable for evaluating the upcoming stable release.",
+      "Near-production quality."
+    ],
+    "installers": [
+      {
+        "platform": "ChromeOS",
+        "file": "android-studio-2025.1.1.11-cros.deb",
+        "size": "1.2 GB"
+      },
+      {
+        "platform": "Mac (Apple Silicon)",
+        "file": "android-studio-2025.1.1.11-mac_arm.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Mac (Intel)",
+        "file": "android-studio-2025.1.1.11-mac.dmg",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.1.11-windows.exe",
+        "size": "1.5 GB"
+      }
+    ],
+    "zip_files": [
+      {
+        "platform": "Linux",
+        "file": "android-studio-2025.1.1.11-linux.tar.gz",
+        "size": "1.5 GB"
+      },
+      {
+        "platform": "Windows (64-bit)",
+        "file": "android-studio-2025.1.1.11-windows.zip",
+        "size": "1.5 GB"
+      }
+    ],
+    "image": "android_studio_image/android_version_12"
+  }
+]
